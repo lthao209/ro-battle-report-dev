@@ -1,0 +1,2488 @@
+{
+ "source": "rathena/rathena@d4b8e7b8f16061cc2496d377ac8f777ce72a4f39",
+ "spawns": [
+  {
+   "mobId": 1511,
+   "name": "Amon Ra",
+   "map": "moc_pryd06",
+   "delayMin": 60,
+   "windowMin": 10,
+   "mapName": "Inside Pyramid B2",
+   "icon": "assets/mobs/mvp/1511.gif"
+  },
+  {
+   "mobId": 2362,
+   "name": "Amon Ra (Nightmare)",
+   "map": "moc_prydn2",
+   "delayMin": 60,
+   "windowMin": 10,
+   "mapName": "Morocc Pyramid B2 - Nightmare",
+   "icon": "assets/mobs/mvp/2362.gif"
+  },
+  {
+   "mobId": 2249,
+   "name": "Angry Student Pyuriel",
+   "map": "gld2_prt",
+   "delayMin": 480,
+   "windowMin": 10,
+   "mapName": "Corridor of the Abyss - Warrior's Way",
+   "icon": "assets/mobs/mvp/2249.gif"
+  },
+  {
+   "mobId": 1785,
+   "name": "Atroce",
+   "map": "gld_dun03_2",
+   "delayMin": 480,
+   "windowMin": 10,
+   "mapName": "Guild Dungeon Underground F2",
+   "icon": "assets/mobs/mvp/1785.gif"
+  },
+  {
+   "mobId": 1785,
+   "name": "Atroce",
+   "map": "ra_fild03",
+   "delayMin": 180,
+   "windowMin": 10,
+   "mapName": "Ida Plane",
+   "icon": "assets/mobs/mvp/1785.gif"
+  },
+  {
+   "mobId": 1785,
+   "name": "Atroce",
+   "map": "ra_fild04",
+   "delayMin": 300,
+   "windowMin": 10,
+   "mapName": "Audumra Grass Land",
+   "icon": "assets/mobs/mvp/1785.gif"
+  },
+  {
+   "mobId": 1785,
+   "name": "Atroce",
+   "map": "ve_fild01",
+   "delayMin": 180,
+   "windowMin": 10,
+   "mapName": "Veins Field area 1",
+   "icon": "assets/mobs/mvp/1785.gif"
+  },
+  {
+   "mobId": 1785,
+   "name": "Atroce",
+   "map": "ve_fild02",
+   "delayMin": 360,
+   "windowMin": 10,
+   "mapName": "Veins Field area 2",
+   "icon": "assets/mobs/mvp/1785.gif"
+  },
+  {
+   "mobId": 1039,
+   "name": "Baphomet",
+   "map": "gld_dun03",
+   "delayMin": 480,
+   "windowMin": 10,
+   "mapName": "Valkyrie Guild Dungeon",
+   "icon": "assets/mobs/mvp/1039.gif"
+  },
+  {
+   "mobId": 1039,
+   "name": "Baphomet",
+   "map": "prt_maze03",
+   "delayMin": 120,
+   "windowMin": 10,
+   "mapName": "Labyrinth Forest area 3",
+   "icon": "assets/mobs/mvp/1039.gif"
+  },
+  {
+   "mobId": 1873,
+   "name": "Beelzebub",
+   "map": "abbey03",
+   "delayMin": 720,
+   "windowMin": 10,
+   "mapName": "Cursed Abbey Dungeon area 3",
+   "icon": "assets/mobs/mvp/1873.gif"
+  },
+  {
+   "mobId": 2068,
+   "name": "Boitata",
+   "map": "bra_dun02",
+   "delayMin": 120,
+   "windowMin": 10,
+   "mapName": "Beyond the Waterfall",
+   "icon": "assets/mobs/mvp/2068.gif"
+  },
+  {
+   "mobId": 20648,
+   "name": "Boss Meow",
+   "map": "ba_lost",
+   "delayMin": 120,
+   "windowMin": 10,
+   "icon": "assets/mobs/mvp/20648.gif"
+  },
+  {
+   "mobId": 21301,
+   "name": "Burning Fang",
+   "map": "oz_dun02",
+   "delayMin": 360,
+   "windowMin": 10,
+   "icon": "assets/mobs/mvp/21301.gif"
+  },
+  {
+   "mobId": 20422,
+   "name": "Corrupted Dark Lord",
+   "map": "gl_cas01_",
+   "delayMin": 60,
+   "windowMin": 10,
+   "mapName": "Glastheim F1",
+   "icon": "assets/mobs/mvp/20422.gif"
+  },
+  {
+   "mobId": 20421,
+   "name": "Corrupted Spider Queen",
+   "map": "gl_cas01_",
+   "delayMin": 120,
+   "windowMin": 10,
+   "mapName": "Glastheim F1",
+   "icon": "assets/mobs/mvp/20421.gif"
+  },
+  {
+   "mobId": 2255,
+   "name": "Dark Guardian Kades",
+   "map": "gld2_gef",
+   "delayMin": 480,
+   "windowMin": 10,
+   "mapName": "Corridor of the Abyss - Dead Man Hill",
+   "icon": "assets/mobs/mvp/2255.gif"
+  },
+  {
+   "mobId": 1272,
+   "name": "Dark Lord",
+   "map": "gl_chyard",
+   "delayMin": 60,
+   "windowMin": 10,
+   "mapName": "Glastheim Underground Churchyard",
+   "icon": "assets/mobs/mvp/1272.gif"
+  },
+  {
+   "mobId": 1272,
+   "name": "Dark Lord",
+   "map": "gl_chyard_",
+   "delayMin": 60,
+   "windowMin": 10,
+   "mapName": "Monastery Churchyard",
+   "icon": "assets/mobs/mvp/1272.gif"
+  },
+  {
+   "mobId": 1272,
+   "name": "Dark Lord",
+   "map": "gld_dun04_2",
+   "delayMin": 480,
+   "windowMin": 10,
+   "mapName": "Guild Dungeon Underground F2",
+   "icon": "assets/mobs/mvp/1272.gif"
+  },
+  {
+   "mobId": 1719,
+   "name": "Detardeurus",
+   "map": "abyss_03",
+   "delayMin": 180,
+   "windowMin": 10,
+   "mapName": "Abyss Lakes Underground Cave area 3",
+   "icon": "assets/mobs/mvp/1719.gif"
+  },
+  {
+   "mobId": 1046,
+   "name": "Doppelganger",
+   "map": "gef_dun02",
+   "delayMin": 120,
+   "windowMin": 10,
+   "mapName": "Geffen Dungeon B3",
+   "icon": "assets/mobs/mvp/1046.gif"
+  },
+  {
+   "mobId": 1046,
+   "name": "Doppelganger",
+   "map": "gld_dun04",
+   "delayMin": 480,
+   "windowMin": 10,
+   "mapName": "Britoniah Guild Dungeon",
+   "icon": "assets/mobs/mvp/1046.gif"
+  },
+  {
+   "mobId": 1389,
+   "name": "Dracula",
+   "map": "gef_dun01",
+   "delayMin": 60,
+   "windowMin": 10,
+   "mapName": "Geffen Dungeon B2",
+   "icon": "assets/mobs/mvp/1389.gif"
+  },
+  {
+   "mobId": 1112,
+   "name": "Drake",
+   "map": "treasure02",
+   "delayMin": 120,
+   "windowMin": 10,
+   "mapName": "Sunken Ship B2",
+   "icon": "assets/mobs/mvp/1112.gif"
+  },
+  {
+   "mobId": 1115,
+   "name": "Eddga",
+   "map": "gld_dun01_2",
+   "delayMin": 480,
+   "windowMin": 10,
+   "mapName": "Guild Dungeon Underground F2",
+   "icon": "assets/mobs/mvp/1115.gif"
+  },
+  {
+   "mobId": 1115,
+   "name": "Eddga",
+   "map": "pay_fild10",
+   "delayMin": 120,
+   "windowMin": 10,
+   "mapName": "Payon Forest area 10",
+   "icon": "assets/mobs/mvp/1115.gif"
+  },
+  {
+   "mobId": 1658,
+   "name": "Egnigem Cenia",
+   "map": "lhz_dun02",
+   "delayMin": 120,
+   "windowMin": 10,
+   "mapName": "Somatology Laboratory area 2",
+   "icon": "assets/mobs/mvp/1658.gif"
+  },
+  {
+   "mobId": 1418,
+   "name": "Evil Snake Lord",
+   "map": "gon_dun03",
+   "delayMin": 94,
+   "windowMin": 10,
+   "mapName": "The Peach Blossom Land",
+   "icon": "assets/mobs/mvp/1418.gif"
+  },
+  {
+   "mobId": 1871,
+   "name": "Falling Bishop",
+   "map": "abbey02",
+   "delayMin": 120,
+   "windowMin": 10,
+   "mapName": "Cursed Abbey Dungeon area 2",
+   "icon": "assets/mobs/mvp/1871.gif"
+  },
+  {
+   "mobId": 2253,
+   "name": "General Daehyun",
+   "map": "gld2_pay",
+   "delayMin": 480,
+   "windowMin": 10,
+   "mapName": "Corridor of the Abyss - Ancient Wind",
+   "icon": "assets/mobs/mvp/2253.gif"
+  },
+  {
+   "mobId": 2251,
+   "name": "Gioia",
+   "map": "gld2_ald",
+   "delayMin": 480,
+   "windowMin": 10,
+   "mapName": "Corridor of the Abyss - Tears of Hero",
+   "icon": "assets/mobs/mvp/2251.gif"
+  },
+  {
+   "mobId": 1768,
+   "name": "Gloom Under Night",
+   "map": "ra_san05",
+   "delayMin": 300,
+   "windowMin": 10,
+   "mapName": "Freya's Sacred Precinct area 5",
+   "icon": "assets/mobs/mvp/1768.gif"
+  },
+  {
+   "mobId": 2165,
+   "name": "Gold Queen Scaraba",
+   "map": "dic_dun03",
+   "delayMin": 120,
+   "windowMin": 0,
+   "mapName": "Scaraba Hole - Nightmare Mode",
+   "icon": "assets/mobs/mvp/2165.gif"
+  },
+  {
+   "mobId": 1086,
+   "name": "Golden Thief Bug",
+   "map": "prt_sewb4",
+   "delayMin": 60,
+   "windowMin": 10,
+   "mapName": "Prontera Culvert area 4",
+   "icon": "assets/mobs/mvp/1086.gif"
+  },
+  {
+   "mobId": 1885,
+   "name": "Gopinich",
+   "map": "mosk_dun03",
+   "delayMin": 120,
+   "windowMin": 10,
+   "mapName": "Dremuci Forest",
+   "icon": "assets/mobs/mvp/1885.gif"
+  },
+  {
+   "mobId": 1252,
+   "name": "Hatii",
+   "map": "xmas_fild01",
+   "delayMin": 120,
+   "windowMin": 10,
+   "mapName": "Lutie Field",
+   "icon": "assets/mobs/mvp/1252.gif"
+  },
+  {
+   "mobId": 1832,
+   "name": "Ifrit",
+   "map": "thor_v03",
+   "delayMin": 660,
+   "windowMin": 10,
+   "mapName": "Thor Volcano Dungeon",
+   "icon": "assets/mobs/mvp/1832.gif"
+  },
+  {
+   "mobId": 20601,
+   "name": "Jewel Ungoliant",
+   "map": "ein_dun03",
+   "delayMin": 120,
+   "windowMin": 10,
+   "icon": "assets/mobs/mvp/20601.gif"
+  },
+  {
+   "mobId": 1734,
+   "name": "Kiel D-01",
+   "map": "kh_dun02",
+   "delayMin": 120,
+   "windowMin": 10,
+   "mapName": "Robot Factory F2",
+   "icon": "assets/mobs/mvp/1734.gif"
+  },
+  {
+   "mobId": 2442,
+   "name": "King of the Alley",
+   "map": "teg_dun02",
+   "delayMin": 120,
+   "windowMin": 0,
+   "mapName": "Guild Underground Dungeon",
+   "icon": "assets/mobs/mvp/2442.gif"
+  },
+  {
+   "mobId": 2202,
+   "name": "Kraken",
+   "map": "iz_dun05",
+   "delayMin": 120,
+   "windowMin": 30,
+   "mapName": "Undersea Tunnel B6",
+   "icon": "assets/mobs/mvp/2202.gif"
+  },
+  {
+   "mobId": 1688,
+   "name": "Lady Tanee",
+   "map": "ayo_dun02",
+   "delayMin": 420,
+   "windowMin": 10,
+   "mapName": "Inside Ancient Shrine",
+   "icon": "assets/mobs/mvp/1688.gif"
+  },
+  {
+   "mobId": 2156,
+   "name": "Leak",
+   "map": "dew_dun01",
+   "delayMin": 120,
+   "windowMin": 0,
+   "mapName": "Volcanic Island of Krakatoa",
+   "icon": "assets/mobs/mvp/2156.gif"
+  },
+  {
+   "mobId": 1373,
+   "name": "Lord of the Dead",
+   "map": "niflheim",
+   "delayMin": 133,
+   "windowMin": 0,
+   "mapName": "Niflheim, Realm of the Dead",
+   "icon": "assets/mobs/mvp/1373.gif"
+  },
+  {
+   "mobId": 1147,
+   "name": "Maya",
+   "map": "anthell02",
+   "delayMin": 120,
+   "windowMin": 10,
+   "mapName": "Ant Hell area 2",
+   "icon": "assets/mobs/mvp/1147.gif"
+  },
+  {
+   "mobId": 1147,
+   "name": "Maya",
+   "map": "gld_dun02_2",
+   "delayMin": 480,
+   "windowMin": 10,
+   "mapName": "Guild Dungeon Underground F2",
+   "icon": "assets/mobs/mvp/1147.gif"
+  },
+  {
+   "mobId": 1059,
+   "name": "Mistress",
+   "map": "gld_dun02",
+   "delayMin": 480,
+   "windowMin": 10,
+   "mapName": "Luina Guild Dungeon",
+   "icon": "assets/mobs/mvp/1059.gif"
+  },
+  {
+   "mobId": 1059,
+   "name": "Mistress",
+   "map": "mjolnir_04",
+   "delayMin": 120,
+   "windowMin": 10,
+   "mapName": "Mt.Mjolnir North Area",
+   "icon": "assets/mobs/mvp/1059.gif"
+  },
+  {
+   "mobId": 1150,
+   "name": "Moonlight Flower",
+   "map": "gld_dun01",
+   "delayMin": 480,
+   "windowMin": 10,
+   "mapName": "Baldur Guild Dungeon",
+   "icon": "assets/mobs/mvp/1150.gif"
+  },
+  {
+   "mobId": 1150,
+   "name": "Moonlight Flower",
+   "map": "pay_dun04",
+   "delayMin": 60,
+   "windowMin": 10,
+   "mapName": "Payon Cave area 5",
+   "icon": "assets/mobs/mvp/1150.gif"
+  },
+  {
+   "mobId": 2483,
+   "name": "Nightmare Baphomet",
+   "map": "gl_cas02_",
+   "delayMin": 120,
+   "windowMin": 0,
+   "mapName": "Corridor F2",
+   "icon": "assets/mobs/mvp/2483.gif"
+  },
+  {
+   "mobId": 1087,
+   "name": "Orc Hero",
+   "map": "gef_fild03",
+   "delayMin": 60,
+   "windowMin": 10,
+   "mapName": "Geffen Field area 3",
+   "icon": "assets/mobs/mvp/1087.gif"
+  },
+  {
+   "mobId": 1190,
+   "name": "Orc Lord",
+   "map": "gef_fild10",
+   "delayMin": 120,
+   "windowMin": 10,
+   "mapName": "Geffen Field area 10",
+   "icon": "assets/mobs/mvp/1190.gif"
+  },
+  {
+   "mobId": 1038,
+   "name": "Osiris",
+   "map": "moc_pryd04",
+   "delayMin": 60,
+   "windowMin": 10,
+   "mapName": "Inside Pyramid F4",
+   "icon": "assets/mobs/mvp/1038.gif"
+  },
+  {
+   "mobId": 1157,
+   "name": "Pharaoh",
+   "map": "in_sphinx5",
+   "delayMin": 60,
+   "windowMin": 10,
+   "mapName": "Morocc Sphinx B5",
+   "icon": "assets/mobs/mvp/1157.gif"
+  },
+  {
+   "mobId": 1159,
+   "name": "Phreeoni",
+   "map": "moc_fild17",
+   "delayMin": 120,
+   "windowMin": 10,
+   "mapName": "Sograt Desert area 17",
+   "icon": "assets/mobs/mvp/1159.gif"
+  },
+  {
+   "mobId": 20381,
+   "name": "R48-85-Bestia",
+   "map": "sp_rudus2",
+   "delayMin": 360,
+   "windowMin": 10,
+   "mapName": "Rudus, Experiment Waste Disposal F2",
+   "icon": "assets/mobs/mvp/20381.gif"
+  },
+  {
+   "mobId": 1646,
+   "name": "Random MVP",
+   "map": "lhz_dun03",
+   "delayMin": 100,
+   "windowMin": 30,
+   "candidates": [
+    {
+     "mobId": 1646,
+     "name": "Lord Knight Seyren",
+     "icon": "assets/mobs/mvp/1646.gif"
+    },
+    {
+     "mobId": 1647,
+     "name": "Assassin Cross Eremes",
+     "icon": "assets/mobs/mvp/1647.gif"
+    },
+    {
+     "mobId": 1648,
+     "name": "Whitesmith Howard",
+     "icon": "assets/mobs/mvp/1648.gif"
+    },
+    {
+     "mobId": 1649,
+     "name": "High Priest Margaretha",
+     "icon": "assets/mobs/mvp/1649.gif"
+    },
+    {
+     "mobId": 1650,
+     "name": "Sniper Cecil",
+     "icon": "assets/mobs/mvp/1650.gif"
+    },
+    {
+     "mobId": 1651,
+     "name": "High Wizard Kathryne",
+     "icon": "assets/mobs/mvp/1651.gif"
+    }
+   ],
+   "mapName": "Somatology Laboratory area 3",
+   "icon": "assets/mobs/mvp/1646.gif"
+  },
+  {
+   "mobId": 2235,
+   "name": "Random MVP",
+   "map": "lhz_dun04",
+   "delayMin": 100,
+   "windowMin": 30,
+   "candidates": [
+    {
+     "mobId": 2235,
+     "name": "Paladin Randel",
+     "icon": "assets/mobs/mvp/2235.gif"
+    },
+    {
+     "mobId": 2236,
+     "name": "Creator Flamel",
+     "icon": "assets/mobs/mvp/2236.gif"
+    },
+    {
+     "mobId": 2237,
+     "name": "Professor Celia",
+     "icon": "assets/mobs/mvp/2237.gif"
+    },
+    {
+     "mobId": 2238,
+     "name": "Champion Chen",
+     "icon": "assets/mobs/mvp/2238.gif"
+    },
+    {
+     "mobId": 2239,
+     "name": "Stalker Gertie",
+     "icon": "assets/mobs/mvp/2239.gif"
+    },
+    {
+     "mobId": 2240,
+     "name": "Clown Alphoccio",
+     "icon": "assets/mobs/mvp/2240.gif"
+    },
+    {
+     "mobId": 2241,
+     "name": "Gypsy Trentini",
+     "icon": "assets/mobs/mvp/2241.gif"
+    }
+   ],
+   "mapName": "Somatology Laboratory area 4",
+   "icon": "assets/mobs/mvp/2235.gif"
+  },
+  {
+   "mobId": 20419,
+   "name": "Rigid Muspellskoll",
+   "map": "mag_dun03",
+   "delayMin": 60,
+   "windowMin": 10,
+   "mapName": "Nogg Road area 3",
+   "icon": "assets/mobs/mvp/20419.gif"
+  },
+  {
+   "mobId": 1623,
+   "name": "RSX-0806",
+   "map": "ein_dun02",
+   "delayMin": 125,
+   "windowMin": 10,
+   "mapName": "Einbech Mine area 2",
+   "icon": "assets/mobs/mvp/1623.gif"
+  },
+  {
+   "mobId": 1492,
+   "name": "Samurai Specter",
+   "map": "ama_dun03",
+   "delayMin": 91,
+   "windowMin": 10,
+   "mapName": "Amatsu Underground Shrine",
+   "icon": "assets/mobs/mvp/1492.gif"
+  },
+  {
+   "mobId": 2087,
+   "name": "Scaraba Queen",
+   "map": "dic_dun02",
+   "delayMin": 120,
+   "windowMin": 0,
+   "mapName": "Scaraba Hall",
+   "icon": "assets/mobs/mvp/2087.gif"
+  },
+  {
+   "mobId": 3741,
+   "name": "Spider Chariot",
+   "map": "rockmi1",
+   "delayMin": 120,
+   "windowMin": 10,
+   "mapName": "Rockridge Mine",
+   "icon": "assets/mobs/mvp/3741.gif"
+  },
+  {
+   "mobId": 1251,
+   "name": "Stormy Knight",
+   "map": "xmas_dun02",
+   "delayMin": 60,
+   "windowMin": 10,
+   "mapName": "Toy Monitoring Room",
+   "icon": "assets/mobs/mvp/1251.gif"
+  },
+  {
+   "mobId": 1583,
+   "name": "Tao Gunka",
+   "map": "beach_dun",
+   "delayMin": 300,
+   "windowMin": 10,
+   "mapName": "Karu, the West Cave",
+   "icon": "assets/mobs/mvp/1583.gif"
+  },
+  {
+   "mobId": 2441,
+   "name": "The Last One",
+   "map": "teg_dun01",
+   "delayMin": 480,
+   "windowMin": 0,
+   "mapName": "Guild Underground Dungeon",
+   "icon": "assets/mobs/mvp/2441.gif"
+  },
+  {
+   "mobId": 20928,
+   "name": "The One",
+   "map": "amicitia2",
+   "delayMin": 360,
+   "windowMin": 10,
+   "icon": "assets/mobs/mvp/20928.gif"
+  },
+  {
+   "mobId": 3074,
+   "name": "Time Holder",
+   "map": "c_tower3_",
+   "delayMin": 120,
+   "windowMin": 0,
+   "mapName": "Twisted Clock Tower F3",
+   "icon": "assets/mobs/mvp/3074.gif"
+  },
+  {
+   "mobId": 1312,
+   "name": "Turtle General",
+   "map": "tur_dun04",
+   "delayMin": 60,
+   "windowMin": 10,
+   "mapName": "Turtle Palace",
+   "icon": "assets/mobs/mvp/1312.gif"
+  },
+  {
+   "mobId": 1751,
+   "name": "Valkyrie Randgris",
+   "map": "odin_tem03",
+   "delayMin": 480,
+   "windowMin": 10,
+   "mapName": "Odin Shrine F3",
+   "icon": "assets/mobs/mvp/1751.gif"
+  },
+  {
+   "mobId": 3633,
+   "name": "Venomous Chimera",
+   "map": "slabw01",
+   "delayMin": 60,
+   "windowMin": 10,
+   "mapName": "Werner Laboratory",
+   "icon": "assets/mobs/mvp/3633.gif"
+  },
+  {
+   "mobId": 1685,
+   "name": "Vesper",
+   "map": "jupe_core",
+   "delayMin": 120,
+   "windowMin": 10,
+   "mapName": "Center of Juperos",
+   "icon": "assets/mobs/mvp/1685.gif"
+  },
+  {
+   "mobId": 1630,
+   "name": "White Lady",
+   "map": "lou_dun03",
+   "delayMin": 117,
+   "windowMin": 10,
+   "mapName": "Suei Long Gon",
+   "icon": "assets/mobs/mvp/1630.gif"
+  },
+  {
+   "mobId": 1917,
+   "name": "Wounded Morocc",
+   "map": "moc_fild22",
+   "delayMin": 720,
+   "windowMin": 10,
+   "mapName": "Sograt Desert - Dimensional Rift",
+   "icon": "assets/mobs/mvp/1917.gif"
+  }
+ ],
+ "mobs": {
+  "1038": {
+   "level": 68,
+   "hp": 1175840,
+   "def": 172,
+   "mdef": 164,
+   "element": "Undead",
+   "elementLevel": 4,
+   "race": "Undead",
+   "size": "Medium"
+  },
+  "1039": {
+   "level": 81,
+   "hp": 668000,
+   "def": 379,
+   "mdef": 45,
+   "element": "Dark",
+   "elementLevel": 3,
+   "race": "Demon",
+   "size": "Large"
+  },
+  "1046": {
+   "level": 77,
+   "hp": 380000,
+   "def": 246,
+   "mdef": 86,
+   "element": "Dark",
+   "elementLevel": 3,
+   "race": "Demon",
+   "size": "Medium"
+  },
+  "1059": {
+   "level": 78,
+   "hp": 378000,
+   "def": 287,
+   "mdef": 192,
+   "element": "Wind",
+   "elementLevel": 4,
+   "race": "Insect",
+   "size": "Small"
+  },
+  "1086": {
+   "level": 65,
+   "hp": 222750,
+   "def": 159,
+   "mdef": 81,
+   "element": "Fire",
+   "elementLevel": 2,
+   "race": "Insect",
+   "size": "Large"
+  },
+  "1087": {
+   "level": 50,
+   "hp": 362000,
+   "def": 197,
+   "mdef": 70,
+   "element": "Earth",
+   "elementLevel": 2,
+   "race": "Demi-Human",
+   "size": "Large"
+  },
+  "1112": {
+   "level": 91,
+   "hp": 804500,
+   "def": 279,
+   "mdef": 135,
+   "element": "Undead",
+   "elementLevel": 1,
+   "race": "Undead",
+   "size": "Medium"
+  },
+  "1115": {
+   "level": 65,
+   "hp": 947500,
+   "def": 166,
+   "mdef": 70,
+   "element": "Fire",
+   "elementLevel": 1,
+   "race": "Brute",
+   "size": "Large"
+  },
+  "1147": {
+   "level": 55,
+   "hp": 380000,
+   "def": 183,
+   "mdef": 50,
+   "element": "Earth",
+   "elementLevel": 4,
+   "race": "Insect",
+   "size": "Large"
+  },
+  "1150": {
+   "level": 79,
+   "hp": 324000,
+   "def": 254,
+   "mdef": 81,
+   "element": "Fire",
+   "elementLevel": 3,
+   "race": "Demon",
+   "size": "Medium"
+  },
+  "1157": {
+   "level": 85,
+   "hp": 900000,
+   "def": 124,
+   "mdef": 269,
+   "element": "Dark",
+   "elementLevel": 3,
+   "race": "Demi-Human",
+   "size": "Large"
+  },
+  "1159": {
+   "level": 71,
+   "hp": 300000,
+   "def": 269,
+   "mdef": 98,
+   "element": "Neutral",
+   "elementLevel": 3,
+   "race": "Brute",
+   "size": "Large"
+  },
+  "1190": {
+   "level": 55,
+   "hp": 552000,
+   "def": 256,
+   "mdef": 92,
+   "element": "Earth",
+   "elementLevel": 4,
+   "race": "Demi-Human",
+   "size": "Large"
+  },
+  "1251": {
+   "level": 92,
+   "hp": 630500,
+   "def": 306,
+   "mdef": 166,
+   "element": "Wind",
+   "elementLevel": 4,
+   "race": "Formless",
+   "size": "Large"
+  },
+  "1252": {
+   "level": 98,
+   "hp": 1275500,
+   "def": 173,
+   "mdef": 103,
+   "element": "Water",
+   "elementLevel": 4,
+   "race": "Brute",
+   "size": "Large"
+  },
+  "1272": {
+   "level": 96,
+   "hp": 1190900,
+   "def": 330,
+   "mdef": 168,
+   "element": "Undead",
+   "elementLevel": 4,
+   "race": "Demon",
+   "size": "Large"
+  },
+  "1312": {
+   "level": 110,
+   "hp": 1442000,
+   "def": 394,
+   "mdef": 123,
+   "element": "Earth",
+   "elementLevel": 2,
+   "race": "Brute",
+   "size": "Large"
+  },
+  "1373": {
+   "level": 94,
+   "hp": 603883,
+   "def": 336,
+   "mdef": 73,
+   "element": "Dark",
+   "elementLevel": 3,
+   "race": "Demon",
+   "size": "Large"
+  },
+  "1389": {
+   "level": 75,
+   "hp": 350000,
+   "def": 252,
+   "mdef": 146,
+   "element": "Dark",
+   "elementLevel": 4,
+   "race": "Demon",
+   "size": "Large"
+  },
+  "1418": {
+   "level": 105,
+   "hp": 1101000,
+   "def": 314,
+   "mdef": 185,
+   "element": "Ghost",
+   "elementLevel": 3,
+   "race": "Brute",
+   "size": "Large"
+  },
+  "1492": {
+   "level": 100,
+   "hp": 901000,
+   "def": 296,
+   "mdef": 140,
+   "element": "Dark",
+   "elementLevel": 3,
+   "race": "Demi-Human",
+   "size": "Large"
+  },
+  "1511": {
+   "level": 69,
+   "hp": 1009000,
+   "def": 213,
+   "mdef": 123,
+   "element": "Earth",
+   "elementLevel": 3,
+   "race": "Demi-Human",
+   "size": "Large"
+  },
+  "1583": {
+   "level": 110,
+   "hp": 1252000,
+   "def": 404,
+   "mdef": 143,
+   "element": "Neutral",
+   "elementLevel": 3,
+   "race": "Demon",
+   "size": "Large"
+  },
+  "1623": {
+   "level": 100,
+   "hp": 1001000,
+   "def": 317,
+   "mdef": 96,
+   "element": "Neutral",
+   "elementLevel": 3,
+   "race": "Formless",
+   "size": "Large"
+  },
+  "1630": {
+   "level": 97,
+   "hp": 720500,
+   "def": 210,
+   "mdef": 178,
+   "element": "Wind",
+   "elementLevel": 3,
+   "race": "Demi-Human",
+   "size": "Large"
+  },
+  "1646": {
+   "level": 160,
+   "hp": 4680000,
+   "def": 567,
+   "mdef": 155,
+   "element": "Fire",
+   "elementLevel": 4,
+   "race": "Demon",
+   "size": "Medium"
+  },
+  "1647": {
+   "level": 160,
+   "hp": 4230000,
+   "def": 445,
+   "mdef": 98,
+   "element": "Poison",
+   "elementLevel": 4,
+   "race": "Demon",
+   "size": "Medium"
+  },
+  "1648": {
+   "level": 160,
+   "hp": 6750000,
+   "def": 301,
+   "mdef": 106,
+   "element": "Earth",
+   "elementLevel": 4,
+   "race": "Demi-Human",
+   "size": "Medium"
+  },
+  "1649": {
+   "level": 160,
+   "hp": 4800000,
+   "def": 231,
+   "mdef": 349,
+   "element": "Holy",
+   "elementLevel": 4,
+   "race": "Demi-Human",
+   "size": "Medium"
+  },
+  "1650": {
+   "level": 160,
+   "hp": 4140000,
+   "def": 178,
+   "mdef": 135,
+   "element": "Wind",
+   "elementLevel": 4,
+   "race": "Demi-Human",
+   "size": "Medium"
+  },
+  "1651": {
+   "level": 160,
+   "hp": 4500000,
+   "def": 215,
+   "mdef": 555,
+   "element": "Ghost",
+   "elementLevel": 3,
+   "race": "Demi-Human",
+   "size": "Medium"
+  },
+  "1658": {
+   "level": 141,
+   "hp": 2910088,
+   "def": 373,
+   "mdef": 175,
+   "element": "Fire",
+   "elementLevel": 2,
+   "race": "Demi-Human",
+   "size": "Medium"
+  },
+  "1685": {
+   "level": 128,
+   "hp": 3802000,
+   "def": 402,
+   "mdef": 109,
+   "element": "Holy",
+   "elementLevel": 2,
+   "race": "Brute",
+   "size": "Large"
+  },
+  "1688": {
+   "level": 80,
+   "hp": 360000,
+   "def": 241,
+   "mdef": 104,
+   "element": "Wind",
+   "elementLevel": 3,
+   "race": "Plant",
+   "size": "Large"
+  },
+  "1719": {
+   "level": 135,
+   "hp": 6005000,
+   "def": 364,
+   "mdef": 166,
+   "element": "Dark",
+   "elementLevel": 3,
+   "race": "Dragon",
+   "size": "Large"
+  },
+  "1734": {
+   "level": 125,
+   "hp": 2502000,
+   "def": 314,
+   "mdef": 232,
+   "element": "Dark",
+   "elementLevel": 2,
+   "race": "Formless",
+   "size": "Medium"
+  },
+  "1751": {
+   "level": 141,
+   "hp": 3205000,
+   "def": 588,
+   "mdef": 506,
+   "element": "Holy",
+   "elementLevel": 4,
+   "race": "Angel",
+   "size": "Large"
+  },
+  "1768": {
+   "level": 139,
+   "hp": 3005000,
+   "def": 479,
+   "mdef": 262,
+   "element": "Ghost",
+   "elementLevel": 3,
+   "race": "Formless",
+   "size": "Large"
+  },
+  "1785": {
+   "level": 113,
+   "hp": 1502000,
+   "def": 316,
+   "mdef": 176,
+   "element": "Dark",
+   "elementLevel": 3,
+   "race": "Brute",
+   "size": "Large"
+  },
+  "1832": {
+   "level": 146,
+   "hp": 6935000,
+   "def": 436,
+   "mdef": 218,
+   "element": "Fire",
+   "elementLevel": 4,
+   "race": "Formless",
+   "size": "Large"
+  },
+  "1871": {
+   "level": 138,
+   "hp": 5655000,
+   "def": 274,
+   "mdef": 382,
+   "element": "Dark",
+   "elementLevel": 2,
+   "race": "Demon",
+   "size": "Medium"
+  },
+  "1873": {
+   "level": 147,
+   "hp": 6805000,
+   "def": 288,
+   "mdef": 265,
+   "element": "Ghost",
+   "elementLevel": 4,
+   "race": "Demon",
+   "size": "Small"
+  },
+  "1885": {
+   "level": 97,
+   "hp": 1120500,
+   "def": 355,
+   "mdef": 121,
+   "element": "Earth",
+   "elementLevel": 3,
+   "race": "Brute",
+   "size": "Large"
+  },
+  "1917": {
+   "level": 151,
+   "hp": 5000000,
+   "def": 425,
+   "mdef": 65,
+   "element": "Dark",
+   "elementLevel": 4,
+   "race": "Demon",
+   "size": "Large"
+  },
+  "2068": {
+   "level": 93,
+   "hp": 1283990,
+   "def": 32,
+   "mdef": 66,
+   "element": "Fire",
+   "elementLevel": 3,
+   "race": "Brute",
+   "size": "Large"
+  },
+  "2087": {
+   "level": 140,
+   "hp": 2441600,
+   "def": 350,
+   "mdef": 220,
+   "element": "Earth",
+   "elementLevel": 3,
+   "race": "Insect",
+   "size": "Large"
+  },
+  "2156": {
+   "level": 94,
+   "hp": 1266000,
+   "def": 280,
+   "mdef": 128,
+   "element": "Dark",
+   "elementLevel": 2,
+   "race": "Demon",
+   "size": "Large"
+  },
+  "2165": {
+   "level": 140,
+   "hp": 6441600,
+   "def": 350,
+   "mdef": 220,
+   "element": "Earth",
+   "elementLevel": 3,
+   "race": "Insect",
+   "size": "Large"
+  },
+  "2202": {
+   "level": 124,
+   "hp": 5602800,
+   "def": 55,
+   "mdef": 229,
+   "element": "Water",
+   "elementLevel": 4,
+   "race": "Fish",
+   "size": "Large"
+  },
+  "2235": {
+   "level": 160,
+   "hp": 6870000,
+   "def": 667,
+   "mdef": 151,
+   "element": "Holy",
+   "elementLevel": 4,
+   "race": "Demi-Human",
+   "size": "Medium"
+  },
+  "2236": {
+   "level": 160,
+   "hp": 4230000,
+   "def": 253,
+   "mdef": 113,
+   "element": "Fire",
+   "elementLevel": 4,
+   "race": "Demi-Human",
+   "size": "Medium"
+  },
+  "2237": {
+   "level": 160,
+   "hp": 3847804,
+   "def": 201,
+   "mdef": 543,
+   "element": "Ghost",
+   "elementLevel": 3,
+   "race": "Demi-Human",
+   "size": "Medium"
+  },
+  "2238": {
+   "level": 160,
+   "hp": 4249350,
+   "def": 216,
+   "mdef": 134,
+   "element": "Water",
+   "elementLevel": 4,
+   "race": "Demon",
+   "size": "Medium"
+  },
+  "2239": {
+   "level": 160,
+   "hp": 4057279,
+   "def": 251,
+   "mdef": 107,
+   "element": "Poison",
+   "elementLevel": 4,
+   "race": "Demon",
+   "size": "Medium"
+  },
+  "2240": {
+   "level": 160,
+   "hp": 3894278,
+   "def": 201,
+   "mdef": 109,
+   "element": "Wind",
+   "elementLevel": 4,
+   "race": "Demi-Human",
+   "size": "Medium"
+  },
+  "2241": {
+   "level": 160,
+   "hp": 3894278,
+   "def": 181,
+   "mdef": 112,
+   "element": "Wind",
+   "elementLevel": 4,
+   "race": "Demi-Human",
+   "size": "Medium"
+  },
+  "2249": {
+   "level": 141,
+   "hp": 2205000,
+   "def": 388,
+   "mdef": 206,
+   "element": "Fire",
+   "elementLevel": 4,
+   "race": "Demi-Human",
+   "size": "Medium"
+  },
+  "2251": {
+   "level": 146,
+   "hp": 2507989,
+   "def": 436,
+   "mdef": 218,
+   "element": "Wind",
+   "elementLevel": 4,
+   "race": "Formless",
+   "size": "Large"
+  },
+  "2253": {
+   "level": 142,
+   "hp": 2500148,
+   "def": 494,
+   "mdef": 123,
+   "element": "Earth",
+   "elementLevel": 3,
+   "race": "Demi-Human",
+   "size": "Large"
+  },
+  "2255": {
+   "level": 143,
+   "hp": 2505000,
+   "def": 479,
+   "mdef": 262,
+   "element": "Dark",
+   "elementLevel": 3,
+   "race": "Formless",
+   "size": "Large"
+  },
+  "2362": {
+   "level": 145,
+   "hp": 2515784,
+   "def": 367,
+   "mdef": 301,
+   "element": "Earth",
+   "elementLevel": 3,
+   "race": "Demi-Human",
+   "size": "Large"
+  },
+  "2441": {
+   "level": 99,
+   "hp": 265203,
+   "def": 510,
+   "mdef": 139,
+   "element": "Fire",
+   "elementLevel": 4,
+   "race": "Demi-Human",
+   "size": "Medium"
+  },
+  "2442": {
+   "level": 99,
+   "hp": 268800,
+   "def": 410,
+   "mdef": 192,
+   "element": "Fire",
+   "elementLevel": 4,
+   "race": "Demi-Human",
+   "size": "Medium"
+  },
+  "2483": {
+   "level": 154,
+   "hp": 4008000,
+   "def": 379,
+   "mdef": 45,
+   "element": "Dark",
+   "elementLevel": 3,
+   "race": "Demon",
+   "size": "Large"
+  },
+  "3074": {
+   "level": 170,
+   "hp": 25000000,
+   "def": 288,
+   "mdef": 265,
+   "element": "Neutral",
+   "elementLevel": 4,
+   "race": "Demon",
+   "size": "Large"
+  },
+  "3633": {
+   "level": 110,
+   "hp": 2800000,
+   "def": 150,
+   "mdef": 150,
+   "element": "Poison",
+   "elementLevel": 4,
+   "race": "Brute",
+   "size": "Large"
+  },
+  "3741": {
+   "level": 158,
+   "hp": 9799123,
+   "def": 394,
+   "mdef": 123,
+   "element": "Neutral",
+   "elementLevel": 2,
+   "race": "Formless",
+   "size": "Large"
+  },
+  "20381": {
+   "level": 174,
+   "hp": 4885000,
+   "def": 855,
+   "mdef": 124,
+   "element": "Neutral",
+   "elementLevel": 4,
+   "race": "Brute",
+   "size": "Large"
+  },
+  "20419": {
+   "level": 188,
+   "hp": 48530254,
+   "def": 791,
+   "mdef": 331,
+   "element": "Fire",
+   "elementLevel": 3,
+   "race": "Demon",
+   "size": "Medium"
+  },
+  "20421": {
+   "level": 195,
+   "hp": 74623473,
+   "def": 285,
+   "mdef": 112,
+   "element": "Dark",
+   "elementLevel": 3,
+   "race": "Demon",
+   "size": "Large"
+  },
+  "20422": {
+   "level": 194,
+   "hp": 74476822,
+   "def": 503,
+   "mdef": 134,
+   "element": "Undead",
+   "elementLevel": 3,
+   "race": "Undead",
+   "size": "Large"
+  },
+  "20601": {
+   "level": 197,
+   "hp": 37847096,
+   "def": 345,
+   "mdef": 90,
+   "element": "Neutral",
+   "elementLevel": 4,
+   "race": "Insect",
+   "size": "Large"
+  },
+  "20648": {
+   "level": 168,
+   "hp": 19298694,
+   "def": 462,
+   "mdef": 103,
+   "element": "Fire",
+   "elementLevel": 3,
+   "race": "Plant",
+   "size": "Small"
+  },
+  "20928": {
+   "level": 245,
+   "hp": 275042400,
+   "def": 654,
+   "mdef": 114,
+   "element": "Neutral",
+   "elementLevel": 3,
+   "race": "Formless",
+   "size": "Large"
+  },
+  "21301": {
+   "level": 212,
+   "hp": 98158095,
+   "def": 791,
+   "mdef": 149,
+   "element": "Fire",
+   "elementLevel": 4,
+   "race": "Brute",
+   "size": "Large"
+  }
+ },
+ "databases": {
+  "hymnro": {
+   "name": "HymnRO",
+   "mobs": {
+    "1038": {
+     "level": 68,
+     "hp": 1335754,
+     "def": 172,
+     "mdef": 164,
+     "element": "Undead",
+     "elementLevel": 4,
+     "race": "Undead",
+     "size": "Medium",
+     "changed": {
+      "hp": 1175840
+     }
+    },
+    "1039": {
+     "level": 81,
+     "hp": 776216,
+     "def": 379,
+     "mdef": 45,
+     "element": "Dark",
+     "elementLevel": 3,
+     "race": "Demon",
+     "size": "Large",
+     "changed": {
+      "hp": 668000
+     }
+    },
+    "1046": {
+     "level": 77,
+     "hp": 438520,
+     "def": 246,
+     "mdef": 86,
+     "element": "Dark",
+     "elementLevel": 3,
+     "race": "Demon",
+     "size": "Medium",
+     "changed": {
+      "hp": 380000
+     }
+    },
+    "1059": {
+     "level": 78,
+     "hp": 436968,
+     "def": 287,
+     "mdef": 192,
+     "element": "Wind",
+     "elementLevel": 4,
+     "race": "Insect",
+     "size": "Small",
+     "changed": {
+      "hp": 378000
+     }
+    },
+    "1086": {
+     "level": 65,
+     "hp": 251707,
+     "def": 159,
+     "mdef": 81,
+     "element": "Fire",
+     "elementLevel": 2,
+     "race": "Insect",
+     "size": "Large",
+     "changed": {
+      "hp": 222750
+     }
+    },
+    "1087": {
+     "level": 50,
+     "hp": 398200,
+     "def": 197,
+     "mdef": 70,
+     "element": "Earth",
+     "elementLevel": 2,
+     "race": "Demi-Human",
+     "size": "Large",
+     "changed": {
+      "hp": 362000
+     }
+    },
+    "1112": {
+     "level": 91,
+     "hp": 950919,
+     "def": 279,
+     "mdef": 135,
+     "element": "Undead",
+     "elementLevel": 1,
+     "race": "Undead",
+     "size": "Medium",
+     "changed": {
+      "hp": 804500
+     }
+    },
+    "1115": {
+     "level": 65,
+     "hp": 1070675,
+     "def": 166,
+     "mdef": 70,
+     "element": "Fire",
+     "elementLevel": 1,
+     "race": "Brute",
+     "size": "Large",
+     "changed": {
+      "hp": 947500
+     }
+    },
+    "1147": {
+     "level": 55,
+     "hp": 421800,
+     "def": 183,
+     "mdef": 50,
+     "element": "Earth",
+     "elementLevel": 4,
+     "race": "Insect",
+     "size": "Large",
+     "changed": {
+      "hp": 380000
+     }
+    },
+    "1150": {
+     "level": 79,
+     "hp": 375192,
+     "def": 254,
+     "mdef": 81,
+     "element": "Fire",
+     "elementLevel": 3,
+     "race": "Demon",
+     "size": "Medium",
+     "changed": {
+      "hp": 324000
+     }
+    },
+    "1157": {
+     "level": 85,
+     "hp": 1053000,
+     "def": 124,
+     "mdef": 269,
+     "element": "Dark",
+     "elementLevel": 3,
+     "race": "Demi-Human",
+     "size": "Large",
+     "changed": {
+      "hp": 900000
+     }
+    },
+    "1159": {
+     "level": 71,
+     "hp": 342600,
+     "def": 269,
+     "mdef": 98,
+     "element": "Neutral",
+     "elementLevel": 3,
+     "race": "Brute",
+     "size": "Large",
+     "changed": {
+      "hp": 300000
+     }
+    },
+    "1190": {
+     "level": 55,
+     "hp": 612720,
+     "def": 256,
+     "mdef": 92,
+     "element": "Earth",
+     "elementLevel": 4,
+     "race": "Demi-Human",
+     "size": "Large",
+     "changed": {
+      "hp": 552000
+     }
+    },
+    "1251": {
+     "level": 92,
+     "hp": 746512,
+     "def": 306,
+     "mdef": 166,
+     "element": "Wind",
+     "elementLevel": 4,
+     "race": "Formless",
+     "size": "Large",
+     "changed": {
+      "hp": 630500
+     }
+    },
+    "1252": {
+     "level": 98,
+     "hp": 1525498,
+     "def": 173,
+     "mdef": 103,
+     "element": "Water",
+     "elementLevel": 4,
+     "race": "Brute",
+     "size": "Large",
+     "changed": {
+      "hp": 1275500
+     }
+    },
+    "1272": {
+     "level": 96,
+     "hp": 1419553,
+     "def": 330,
+     "mdef": 168,
+     "element": "Undead",
+     "elementLevel": 4,
+     "race": "Demon",
+     "size": "Large",
+     "changed": {
+      "hp": 1190900
+     }
+    },
+    "1312": {
+     "level": 110,
+     "hp": 1759240,
+     "def": 394,
+     "mdef": 123,
+     "element": "Earth",
+     "elementLevel": 2,
+     "race": "Brute",
+     "size": "Large",
+     "changed": {
+      "hp": 1442000
+     }
+    },
+    "1373": {
+     "level": 94,
+     "hp": 717413,
+     "def": 336,
+     "mdef": 73,
+     "element": "Dark",
+     "elementLevel": 3,
+     "race": "Demon",
+     "size": "Large",
+     "changed": {
+      "hp": 603883
+     }
+    },
+    "1389": {
+     "level": 75,
+     "hp": 402500,
+     "def": 252,
+     "mdef": 146,
+     "element": "Dark",
+     "elementLevel": 4,
+     "race": "Demon",
+     "size": "Large",
+     "changed": {
+      "hp": 350000
+     }
+    },
+    "1418": {
+     "level": 105,
+     "hp": 1332210,
+     "def": 314,
+     "mdef": 185,
+     "element": "Ghost",
+     "elementLevel": 3,
+     "race": "Brute",
+     "size": "Large",
+     "changed": {
+      "hp": 1101000
+     }
+    },
+    "1492": {
+     "level": 100,
+     "hp": 1081200,
+     "def": 296,
+     "mdef": 140,
+     "element": "Dark",
+     "elementLevel": 3,
+     "race": "Demi-Human",
+     "size": "Large",
+     "changed": {
+      "hp": 901000
+     }
+    },
+    "1511": {
+     "level": 69,
+     "hp": 1148242,
+     "def": 213,
+     "mdef": 123,
+     "element": "Earth",
+     "elementLevel": 3,
+     "race": "Demi-Human",
+     "size": "Large",
+     "changed": {
+      "hp": 1009000
+     }
+    },
+    "1583": {
+     "level": 110,
+     "hp": 1527440,
+     "def": 404,
+     "mdef": 143,
+     "element": "Neutral",
+     "elementLevel": 3,
+     "race": "Demon",
+     "size": "Large",
+     "changed": {
+      "hp": 1252000
+     }
+    },
+    "1623": {
+     "level": 100,
+     "hp": 1201200,
+     "def": 317,
+     "mdef": 96,
+     "element": "Neutral",
+     "elementLevel": 3,
+     "race": "Formless",
+     "size": "Large",
+     "changed": {
+      "hp": 1001000
+     }
+    },
+    "1630": {
+     "level": 97,
+     "hp": 860277,
+     "def": 210,
+     "mdef": 178,
+     "element": "Wind",
+     "elementLevel": 3,
+     "race": "Demi-Human",
+     "size": "Large",
+     "changed": {
+      "hp": 720500
+     }
+    },
+    "1646": {
+     "level": 160,
+     "hp": 6177600,
+     "def": 567,
+     "mdef": 155,
+     "element": "Fire",
+     "elementLevel": 4,
+     "race": "Demon",
+     "size": "Medium",
+     "changed": {
+      "hp": 4680000
+     }
+    },
+    "1647": {
+     "level": 160,
+     "hp": 5583600,
+     "def": 445,
+     "mdef": 98,
+     "element": "Poison",
+     "elementLevel": 4,
+     "race": "Demon",
+     "size": "Medium",
+     "changed": {
+      "hp": 4230000
+     }
+    },
+    "1648": {
+     "level": 160,
+     "hp": 8910000,
+     "def": 301,
+     "mdef": 106,
+     "element": "Earth",
+     "elementLevel": 4,
+     "race": "Demi-Human",
+     "size": "Medium",
+     "changed": {
+      "hp": 6750000
+     }
+    },
+    "1649": {
+     "level": 160,
+     "hp": 6336000,
+     "def": 231,
+     "mdef": 349,
+     "element": "Holy",
+     "elementLevel": 4,
+     "race": "Demi-Human",
+     "size": "Medium",
+     "changed": {
+      "hp": 4800000
+     }
+    },
+    "1650": {
+     "level": 160,
+     "hp": 5464800,
+     "def": 178,
+     "mdef": 135,
+     "element": "Wind",
+     "elementLevel": 4,
+     "race": "Demi-Human",
+     "size": "Medium",
+     "changed": {
+      "hp": 4140000
+     }
+    },
+    "1651": {
+     "level": 160,
+     "hp": 5940000,
+     "def": 215,
+     "mdef": 555,
+     "element": "Ghost",
+     "elementLevel": 3,
+     "race": "Demi-Human",
+     "size": "Medium",
+     "changed": {
+      "hp": 4500000
+     }
+    },
+    "1658": {
+     "level": 141,
+     "hp": 3730733,
+     "def": 373,
+     "mdef": 175,
+     "element": "Fire",
+     "elementLevel": 2,
+     "race": "Demi-Human",
+     "size": "Medium",
+     "changed": {
+      "hp": 2910088
+     }
+    },
+    "1685": {
+     "level": 128,
+     "hp": 4775312,
+     "def": 402,
+     "mdef": 109,
+     "element": "Holy",
+     "elementLevel": 2,
+     "race": "Brute",
+     "size": "Large",
+     "changed": {
+      "hp": 3802000
+     }
+    },
+    "1688": {
+     "level": 80,
+     "hp": 417600,
+     "def": 241,
+     "mdef": 104,
+     "element": "Wind",
+     "elementLevel": 3,
+     "race": "Plant",
+     "size": "Large",
+     "changed": {
+      "hp": 360000
+     }
+    },
+    "1719": {
+     "level": 135,
+     "hp": 7626350,
+     "def": 364,
+     "mdef": 166,
+     "element": "Dark",
+     "elementLevel": 3,
+     "race": "Dragon",
+     "size": "Large",
+     "changed": {
+      "hp": 6005000
+     }
+    },
+    "1734": {
+     "level": 125,
+     "hp": 3127500,
+     "def": 314,
+     "mdef": 232,
+     "element": "Dark",
+     "elementLevel": 2,
+     "race": "Formless",
+     "size": "Medium",
+     "changed": {
+      "hp": 2502000
+     }
+    },
+    "1751": {
+     "level": 141,
+     "hp": 4108810,
+     "def": 588,
+     "mdef": 506,
+     "element": "Holy",
+     "elementLevel": 4,
+     "race": "Angel",
+     "size": "Large",
+     "changed": {
+      "hp": 3205000
+     }
+    },
+    "1768": {
+     "level": 139,
+     "hp": 3840390,
+     "def": 479,
+     "mdef": 262,
+     "element": "Ghost",
+     "elementLevel": 3,
+     "race": "Formless",
+     "size": "Large",
+     "changed": {
+      "hp": 3005000
+     }
+    },
+    "1785": {
+     "level": 113,
+     "hp": 1841452,
+     "def": 316,
+     "mdef": 176,
+     "element": "Dark",
+     "elementLevel": 3,
+     "race": "Brute",
+     "size": "Large",
+     "changed": {
+      "hp": 1502000
+     }
+    },
+    "1832": {
+     "level": 146,
+     "hp": 8960020,
+     "def": 436,
+     "mdef": 218,
+     "element": "Fire",
+     "elementLevel": 4,
+     "race": "Formless",
+     "size": "Large",
+     "changed": {
+      "hp": 6935000
+     }
+    },
+    "1871": {
+     "level": 138,
+     "hp": 7215780,
+     "def": 274,
+     "mdef": 382,
+     "element": "Dark",
+     "elementLevel": 2,
+     "race": "Demon",
+     "size": "Medium",
+     "changed": {
+      "hp": 5655000
+     }
+    },
+    "1873": {
+     "level": 147,
+     "hp": 8805670,
+     "def": 288,
+     "mdef": 265,
+     "element": "Ghost",
+     "elementLevel": 4,
+     "race": "Demon",
+     "size": "Small",
+     "changed": {
+      "hp": 6805000
+     }
+    },
+    "1885": {
+     "level": 97,
+     "hp": 1337877,
+     "def": 355,
+     "mdef": 121,
+     "element": "Earth",
+     "elementLevel": 3,
+     "race": "Brute",
+     "size": "Large",
+     "changed": {
+      "hp": 1120500
+     }
+    },
+    "1917": {
+     "level": 151,
+     "hp": 6510000,
+     "def": 425,
+     "mdef": 65,
+     "element": "Dark",
+     "elementLevel": 4,
+     "race": "Demon",
+     "size": "Large",
+     "changed": {
+      "hp": 5000000
+     }
+    },
+    "2068": {
+     "level": 93,
+     "hp": 1522812,
+     "def": 32,
+     "mdef": 66,
+     "element": "Fire",
+     "elementLevel": 3,
+     "race": "Brute",
+     "size": "Large",
+     "changed": {
+      "hp": 1283990
+     }
+    },
+    "2087": {
+     "level": 140,
+     "hp": 3125248,
+     "def": 350,
+     "mdef": 220,
+     "element": "Earth",
+     "elementLevel": 3,
+     "race": "Insect",
+     "size": "Large",
+     "changed": {
+      "hp": 2441600
+     }
+    },
+    "2156": {
+     "level": 94,
+     "hp": 1504008,
+     "def": 280,
+     "mdef": 128,
+     "element": "Dark",
+     "elementLevel": 2,
+     "race": "Demon",
+     "size": "Large",
+     "changed": {
+      "hp": 1266000
+     }
+    },
+    "2165": {
+     "level": 140,
+     "hp": 8245248,
+     "def": 350,
+     "mdef": 220,
+     "element": "Earth",
+     "elementLevel": 3,
+     "race": "Insect",
+     "size": "Large",
+     "changed": {
+      "hp": 6441600
+     }
+    },
+    "2202": {
+     "level": 124,
+     "hp": 6992294,
+     "def": 55,
+     "mdef": 229,
+     "element": "Water",
+     "elementLevel": 4,
+     "race": "Fish",
+     "size": "Large",
+     "changed": {
+      "hp": 5602800
+     }
+    },
+    "2235": {
+     "level": 160,
+     "hp": 9068400,
+     "def": 667,
+     "mdef": 151,
+     "element": "Holy",
+     "elementLevel": 4,
+     "race": "Demi-Human",
+     "size": "Medium",
+     "changed": {
+      "hp": 6870000
+     }
+    },
+    "2236": {
+     "level": 160,
+     "hp": 5583600,
+     "def": 253,
+     "mdef": 113,
+     "element": "Fire",
+     "elementLevel": 4,
+     "race": "Demi-Human",
+     "size": "Medium",
+     "changed": {
+      "hp": 4230000
+     }
+    },
+    "2237": {
+     "level": 160,
+     "hp": 5079101,
+     "def": 201,
+     "mdef": 543,
+     "element": "Ghost",
+     "elementLevel": 3,
+     "race": "Demi-Human",
+     "size": "Medium",
+     "changed": {
+      "hp": 3847804
+     }
+    },
+    "2238": {
+     "level": 160,
+     "hp": 5609142,
+     "def": 216,
+     "mdef": 134,
+     "element": "Water",
+     "elementLevel": 4,
+     "race": "Demon",
+     "size": "Medium",
+     "changed": {
+      "hp": 4249350
+     }
+    },
+    "2239": {
+     "level": 160,
+     "hp": 5355608,
+     "def": 251,
+     "mdef": 107,
+     "element": "Poison",
+     "elementLevel": 4,
+     "race": "Demon",
+     "size": "Medium",
+     "changed": {
+      "hp": 4057279
+     }
+    },
+    "2240": {
+     "level": 160,
+     "hp": 5140447,
+     "def": 201,
+     "mdef": 109,
+     "element": "Wind",
+     "elementLevel": 4,
+     "race": "Demi-Human",
+     "size": "Medium",
+     "changed": {
+      "hp": 3894278
+     }
+    },
+    "2241": {
+     "level": 160,
+     "hp": 5140447,
+     "def": 181,
+     "mdef": 112,
+     "element": "Wind",
+     "elementLevel": 4,
+     "race": "Demi-Human",
+     "size": "Medium",
+     "changed": {
+      "hp": 3894278
+     }
+    },
+    "2249": {
+     "level": 141,
+     "hp": 2826810,
+     "def": 388,
+     "mdef": 206,
+     "element": "Fire",
+     "elementLevel": 4,
+     "race": "Demi-Human",
+     "size": "Medium",
+     "changed": {
+      "hp": 2205000
+     }
+    },
+    "2251": {
+     "level": 146,
+     "hp": 3240322,
+     "def": 436,
+     "mdef": 218,
+     "element": "Wind",
+     "elementLevel": 4,
+     "race": "Formless",
+     "size": "Large",
+     "changed": {
+      "hp": 2507989
+     }
+    },
+    "2253": {
+     "level": 142,
+     "hp": 3210190,
+     "def": 494,
+     "mdef": 123,
+     "element": "Earth",
+     "elementLevel": 3,
+     "race": "Demi-Human",
+     "size": "Large",
+     "changed": {
+      "hp": 2500148
+     }
+    },
+    "2255": {
+     "level": 143,
+     "hp": 3221430,
+     "def": 479,
+     "mdef": 262,
+     "element": "Dark",
+     "elementLevel": 3,
+     "race": "Formless",
+     "size": "Large",
+     "changed": {
+      "hp": 2505000
+     }
+    },
+    "2362": {
+     "level": 145,
+     "hp": 3245361,
+     "def": 367,
+     "mdef": 301,
+     "element": "Earth",
+     "elementLevel": 3,
+     "race": "Demi-Human",
+     "size": "Large",
+     "changed": {
+      "hp": 2515784
+     }
+    },
+    "2441": {
+     "level": 99,
+     "hp": 317713,
+     "def": 510,
+     "mdef": 139,
+     "element": "Fire",
+     "elementLevel": 4,
+     "race": "Demi-Human",
+     "size": "Medium",
+     "changed": {
+      "hp": 265203
+     }
+    },
+    "2442": {
+     "level": 99,
+     "hp": 322022,
+     "def": 410,
+     "mdef": 192,
+     "element": "Fire",
+     "elementLevel": 4,
+     "race": "Demi-Human",
+     "size": "Medium",
+     "changed": {
+      "hp": 268800
+     }
+    },
+    "2483": {
+     "level": 154,
+     "hp": 5242464,
+     "def": 379,
+     "mdef": 45,
+     "element": "Dark",
+     "elementLevel": 3,
+     "race": "Demon",
+     "size": "Large",
+     "changed": {
+      "hp": 4008000
+     }
+    },
+    "3074": {
+     "level": 170,
+     "hp": 33500000,
+     "def": 288,
+     "mdef": 265,
+     "element": "Neutral",
+     "elementLevel": 4,
+     "race": "Demon",
+     "size": "Large",
+     "changed": {
+      "hp": 25000000
+     }
+    },
+    "3633": {
+     "level": 110,
+     "hp": 3416000,
+     "def": 150,
+     "mdef": 150,
+     "element": "Poison",
+     "elementLevel": 4,
+     "race": "Brute",
+     "size": "Large",
+     "changed": {
+      "hp": 2800000
+     }
+    },
+    "3741": {
+     "level": 158,
+     "hp": 12895646,
+     "def": 394,
+     "mdef": 123,
+     "element": "Neutral",
+     "elementLevel": 2,
+     "race": "Formless",
+     "size": "Large",
+     "changed": {
+      "hp": 9799123
+     }
+    },
+    "20381": {
+     "level": 174,
+     "hp": 6584980,
+     "def": 855,
+     "mdef": 124,
+     "element": "Neutral",
+     "elementLevel": 4,
+     "race": "Brute",
+     "size": "Large",
+     "changed": {
+      "hp": 4885000
+     }
+    },
+    "20419": {
+     "level": 188,
+     "hp": 66777630,
+     "def": 791,
+     "mdef": 331,
+     "element": "Fire",
+     "elementLevel": 3,
+     "race": "Demon",
+     "size": "Medium",
+     "changed": {
+      "hp": 48530254
+     }
+    },
+    "20421": {
+     "level": 195,
+     "hp": 103726627,
+     "def": 285,
+     "mdef": 112,
+     "element": "Dark",
+     "elementLevel": 3,
+     "race": "Demon",
+     "size": "Large",
+     "changed": {
+      "hp": 74623473
+     }
+    },
+    "20422": {
+     "level": 194,
+     "hp": 103373829,
+     "def": 503,
+     "mdef": 134,
+     "element": "Undead",
+     "elementLevel": 3,
+     "race": "Undead",
+     "size": "Large",
+     "changed": {
+      "hp": 74476822
+     }
+    },
+    "20601": {
+     "level": 197,
+     "hp": 52758852,
+     "def": 345,
+     "mdef": 90,
+     "element": "Neutral",
+     "elementLevel": 4,
+     "race": "Insect",
+     "size": "Large",
+     "changed": {
+      "hp": 37847096
+     }
+    },
+    "20648": {
+     "level": 168,
+     "hp": 25783055,
+     "def": 462,
+     "mdef": 103,
+     "element": "Fire",
+     "elementLevel": 3,
+     "race": "Plant",
+     "size": "Small",
+     "changed": {
+      "hp": 19298694
+     }
+    },
+    "20928": {
+     "level": 245,
+     "hp": 409813176,
+     "def": 654,
+     "mdef": 114,
+     "element": "Neutral",
+     "elementLevel": 3,
+     "race": "Formless",
+     "size": "Large",
+     "changed": {
+      "hp": 275042400
+     }
+    },
+    "21301": {
+     "level": 212,
+     "hp": 139777127,
+     "def": 791,
+     "mdef": 149,
+     "element": "Fire",
+     "elementLevel": 4,
+     "race": "Brute",
+     "size": "Large",
+     "changed": {
+      "hp": 98158095
+     }
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "date": "2026-08-23",
+    "title": "Feedback attachments, faster icons, and report fixes",
+    "changes": [
+      { "type": "new", "text": "The feedback form can now attach screenshots." },
+      { "type": "fix", "text": "Fixed the player who recorded the replay being missing from their own report." },
+      { "type": "fix", "text": "Fixed a gap where some MVP kills weren't credited to any player." },
+      { "type": "fix", "text": "Fixed the participant table being unreachable on phones (Deaths column and expand button were cut off)." },
+      { "type": "improved", "text": "Skill/item icons are now cached locally for faster repeat loads." },
+      { "type": "improved", "text": ".rrf uploads are now validated before parsing." },
+      { "type": "improved", "text": "Removed the 27MB upload cap — long replay sessions that parse fine were being rejected." }
+    ]
+  },
+  {
+    "id": 2,
+    "date": "2026-08-24",
+    "title": "RateMyServer links, named shares, and MVP/heal fixes",
+    "changes": [
+      { "type": "new", "text": "Item, skill, and monster names now link out to ratemyserver.net." },
+      { "type": "new", "text": "Share links can be named before copying." },
+      { "type": "new", "text": "Added per-skill heal totals to the player breakdown." },
+      { "type": "fix", "text": "Fixed ground-skill damage/heals (Ground Drift, Sanctuary, traps) not being credited to the caster." },
+      { "type": "fix", "text": "Fixed MVP kills not splitting correctly when one species has both a boss and ordinary clones." },
+      { "type": "fix", "text": "Fixed a 1px row-border misalignment in tables." },
+      { "type": "improved", "text": "The feedback form now automatically links your current report instead of requiring a manual attachment." }
+    ]
+  },
+  {
+    "id": 3,
+    "date": "2026-08-27",
+    "title": "Item hover, class icons, and MVP fixes",
+    "changes": [
+      { "type": "new", "text": "Hover (or tap) an item in \"Total Items Used\" to see which players used it and how many times." },
+      { "type": "new", "text": "Added each player's class icon next to their name across the participant table, charts, and item hover list." },
+      { "type": "fix", "text": "Fixed MVP kill counts being undercounted for several bosses." },
+      { "type": "fix", "text": "Fixed a homunculus/mercenary occasionally showing up as if it were a player." }
+    ]
+  },
+  {
+    "id": 4,
+    "date": "2026-09-04",
+    "title": "New home at ro-report.onl, themed scrollbars, and MVP kill breakdowns",
+    "changes": [
+      { "type": "new", "text": "The site now lives at ro-report.onl. Old links (lthao209.github.io/ro-battle-report) redirect here automatically." },
+      { "type": "new", "text": "The MVP Count chart's tooltip now breaks kills down per monster, not just a total." },
+      { "type": "fix", "text": "Fixed \"Copy share link\" failing right after the move to the new domain." },
+      { "type": "improved", "text": "Scrollbars throughout the site are now themed to match the RO aesthetic instead of the browser default." },
+      { "type": "improved", "text": "Links to the site now show a proper title, description, and preview image when shared on Discord or social media." },
+      { "type": "improved", "text": "Tightened up chart spacing and panel styling." }
+    ]
+  },
+  {
+    "id": 5,
+    "date": "2026-09-11",
+    "title": "Full class names, replay server info, and unread patch notes",
+    "changes": [
+      { "type": "new", "text": "Reports now show which server and instance the replay was recorded in." },
+      { "type": "fix", "text": "3rd, 4th, baby and expanded classes now show their real name (Shiranui, Night Watch, Dragon Knight, Cardinal…) instead of \"Novice / unrecognized class\"." },
+      { "type": "fix", "text": "Fixed ordinary monsters being counted as MVP kills on servers that report every monster as a boss." },
+      { "type": "fix", "text": "MVPs are now detected correctly on newer server builds that report boss types differently." }
+    ]
+  },
+  {
+    "id": 6,
+    "date": "2026-09-12",
+    "title": "Share dialog cleanup, opt-in replay sharing, and server name",
+    "changes": [
+      { "type": "new", "text": "Added an option to share your replay file directly, so bugs can get fixed faster — on by default, and remembered if you turn it off." },
+      { "type": "new", "text": "Added an optional field to name (or correct) the server your report was recorded on." },
+      { "type": "fix", "text": "Fixed a shared report not updating when pasting a different share link over an open one." },
+      { "type": "improved", "text": "Replaced always-visible help text in the share dialog with a compact (i) icon you hover for details." }
+    ]
+  },
+  {
+    "id": 7,
+    "date": "2026-09-15",
+    "title": "Revenant Elegy monsters and a remembered server name",
+    "changes": [
+      { "type": "new", "text": "Revenant Elegy's custom monsters (the Jotunn instance and more) now show their names and sprites in reports." },
+      { "type": "fix", "text": "Fixed minibosses being counted as MVP kills on newer servers. In Revenant Elegy's Jotunn instance, only Jotunn itself now counts." },
+      { "type": "improved", "text": "Server-specific monster data (custom sprites, renamed monsters, MVP status) now only applies to reports from that server, so one server's customizations never show up on another's report. Custom monsters no longer link to RateMyServer pages that don't exist." },
+      { "type": "improved", "text": "The share dialog now remembers the server name you typed. If a replay doesn't say which server it's from (or just says \"rAthena\"), your last name is filled in for you." }
+    ]
+  },
+  {
+    "id": 8,
+    "date": "2026-09-21",
+    "title": "Sanctuary, ground skills, and cleaner player lists",
+    "changes": [
+      { "type": "fix", "text": "Sanctuary and Apple of Idun healing now show under their own skill instead of being counted as Heal, and Heal's \"Times used\" no longer counts every Sanctuary tick. Thanks for the report!" },
+      { "type": "fix", "text": "Ground-targeted skills (Sanctuary, Pneuma, Safety Wall, Warp Portal, Ground Drift and more) now show how many times they were cast." },
+      { "type": "fix", "text": "A player who switched characters during the replay is now shown as the character who actually did the fighting or healing, not whichever one they logged in last." },
+      { "type": "fix", "text": "Revenant Elegy boss mechanics (Ghost Ship cannons, Jotunn's ice meteors) and Deep-Earth Stalactites no longer appear in the player list." },
+      { "type": "improved", "text": "Hundreds more skills now have names, including 4th job skills like Mission Bombard." }
+    ]
+  }
+]

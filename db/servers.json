@@ -1,0 +1,263 @@
+{
+  "uaro": {
+    "names": [
+      "uaro"
+    ],
+    "mobs": {
+      "1150": {
+        "name": "Bapho Jr.",
+        "sameAs": 1101
+      },
+      "3971": {
+        "name": "Skelion",
+        "icon": "https://db.irowiki.org/image/monster/3971.png"
+      },
+      "20423": {
+        "name": "Healy Moore",
+        "icon": "https://db.irowiki.org/image/monster/20423.png"
+      },
+      "20424": {
+        "name": "Moonlight Flower",
+        "icon": "https://db.irowiki.org/image/monster/20424.png"
+      },
+      "20425": {
+        "name": "Patrick",
+        "icon": "https://db.irowiki.org/image/monster/20425.png"
+      },
+      "20571": {
+        "name": "Fiona",
+        "icon": "https://db.irowiki.org/image/monster/20571.png"
+      },
+      "20604": {
+        "name": "Skegginew",
+        "icon": "https://db.irowiki.org/image/monster/20604.png"
+      },
+      "21290": {
+        "name": "Kiel",
+        "icon": "https://db.irowiki.org/image/monster/21290.png"
+      },
+      "21502": {
+        "name": "big boi",
+        "icon": "https://db.irowiki.org/image/monster/21502.png"
+      },
+      "21630": {
+        "name": "Wild Rose",
+        "icon": "https://db.irowiki.org/image/monster/21630.png"
+      },
+      "21650": {
+        "name": "Mutated White Knight",
+        "icon": "https://db.irowiki.org/image/monster/21650.png"
+      },
+      "21653": {
+        "name": "Eddga",
+        "icon": "https://db.irowiki.org/image/monster/21653.png"
+      },
+      "22185": {
+        "name": "Wonder Pets",
+        "icon": "https://db.irowiki.org/image/monster/22185.png"
+      },
+      "22382": {
+        "name": "Not Taizi",
+        "icon": "https://db.irowiki.org/image/monster/22382.png"
+      },
+      "23000": {
+        "name": "Dark Illusion",
+        "icon": "https://db.irowiki.org/image/monster/23000.png"
+      }
+    }
+  },
+  "talontales": {
+    "names": [
+      "TalonTales",
+      "Talon Tales"
+    ],
+    "mobs": {
+      "1075": {
+        "name": "Turtle General",
+        "icon": "https://db.irowiki.org/image/monster/1075.png"
+      },
+      "3173": {
+        "name": "Firefox",
+        "icon": "https://db.irowiki.org/image/monster/3173.png"
+      },
+      "3323": {
+        "name": "Valhalla Knight",
+        "icon": "https://db.irowiki.org/image/monster/3323.png"
+      },
+      "3324": {
+        "name": "Valhalla Cavalier",
+        "icon": "https://db.irowiki.org/image/monster/3324.png"
+      },
+      "3325": {
+        "name": "Valhalla Templar",
+        "icon": "https://db.irowiki.org/image/monster/3325.png"
+      },
+      "3326": {
+        "name": "Valhalla Rapier",
+        "icon": "https://db.irowiki.org/image/monster/3326.png"
+      },
+      "3327": {
+        "name": "Valhalla Champion",
+        "icon": "https://db.irowiki.org/image/monster/3327.png"
+      },
+      "3577": {
+        "name": "Loki",
+        "icon": "https://db.irowiki.org/image/monster/3577.png"
+      },
+      "3783": {
+        "name": "Valkyrie Geiravor",
+        "icon": "https://db.irowiki.org/image/monster/3783.png"
+      },
+      "3784": {
+        "name": "Valkyrie Brynhildr",
+        "icon": "https://db.irowiki.org/image/monster/3784.png"
+      },
+      "3786": {
+        "name": "Garmr",
+        "icon": "https://db.irowiki.org/image/monster/3786.png"
+      },
+      "3808": {
+        "name": "Ymir",
+        "icon": "https://db.irowiki.org/image/monster/3808.png"
+      },
+      "3817": {
+        "name": "Aegir",
+        "icon": "https://db.irowiki.org/image/monster/3817.png"
+      },
+      "3818": {
+        "name": "Skadi",
+        "icon": "https://db.irowiki.org/image/monster/3818.png"
+      },
+      "3819": {
+        "name": "Valkyrie Herja",
+        "icon": "https://db.irowiki.org/image/monster/3819.png"
+      },
+      "3820": {
+        "name": "Valkyrie Herja",
+        "icon": "https://db.irowiki.org/image/monster/3820.png"
+      },
+      "3823": {
+        "name": "Holy Frus",
+        "icon": "https://db.irowiki.org/image/monster/3823.png"
+      },
+      "3824": {
+        "name": "Holy Skogul",
+        "icon": "https://db.irowiki.org/image/monster/3824.png"
+      },
+      "3825": {
+        "name": "Angelgolt",
+        "icon": "https://db.irowiki.org/image/monster/3825.png"
+      },
+      "3827": {
+        "name": "Fallen Dragon",
+        "icon": "https://db.irowiki.org/image/monster/3827.png"
+      },
+      "3828": {
+        "name": "Fallen Acidus",
+        "icon": "https://db.irowiki.org/image/monster/3828.png"
+      },
+      "3829": {
+        "name": "Fallen Ferus",
+        "icon": "https://db.irowiki.org/image/monster/3829.png"
+      },
+      "3830": {
+        "name": "Geiravor Disciple",
+        "icon": "https://db.irowiki.org/image/monster/3830.png"
+      },
+      "3831": {
+        "name": "Geiravor Partisan",
+        "icon": "https://db.irowiki.org/image/monster/3831.png"
+      },
+      "3832": {
+        "name": "Geiravor Kynda",
+        "icon": "https://db.irowiki.org/image/monster/3832.png"
+      },
+      "3833": {
+        "name": "Geiravor Myrkr",
+        "icon": "https://db.irowiki.org/image/monster/3833.png"
+      },
+      "22251": {
+        "name": "Dr Egg Boiler",
+        "icon": "https://db.irowiki.org/image/monster/22251.png"
+      }
+    }
+  },
+  "revenant-elegy": {
+    "names": [
+      "Revenant Elegy"
+    ],
+    "mobs": {
+      "27001": {
+        "name": "Diamond Salamander",
+        "mvp": false,
+        "icon": "assets/mobs/revenant-elegy/27001.gif"
+      },
+      "27002": {
+        "name": "Blue Flamed Obsidian",
+        "mvp": false,
+        "icon": "assets/mobs/revenant-elegy/27002.gif"
+      },
+      "27003": {
+        "name": "Light-Refracting Golem",
+        "mvp": false,
+        "icon": "assets/mobs/revenant-elegy/27003.gif"
+      },
+      "27004": {
+        "name": "Deep-Earth Stalactite",
+        "mvp": false,
+        "icon": "assets/mobs/revenant-elegy/27004.gif"
+      },
+      "27006": {
+        "name": "Jotunn",
+        "mvp": true,
+        "icon": "assets/mobs/revenant-elegy/27006.gif"
+      },
+      "27008": {
+        "name": "Frozen Stalactite",
+        "mvp": false
+      },
+      "27009": {
+        "name": "Permafrost",
+        "mvp": false
+      },
+      "27010": {
+        "name": "Permafrost",
+        "mvp": false
+      },
+      "27011": {
+        "name": "Permafrost",
+        "mvp": false
+      },
+      "27012": {
+        "name": "Permafrost",
+        "mvp": false
+      },
+      "27013": {
+        "name": "Permafrost",
+        "mvp": false
+      },
+      "27014": {
+        "name": "Permafrost",
+        "mvp": false
+      },
+      "27015": {
+        "name": "Permafrost",
+        "mvp": false
+      },
+      "27016": {
+        "name": "Permafrost",
+        "mvp": false
+      },
+      "27023": {
+        "name": "Jotunn",
+        "mvp": true,
+        "icon": "assets/mobs/revenant-elegy/27023.gif"
+      },
+      "27024": {
+        "name": "Jotunn",
+        "mvp": true,
+        "icon": "assets/mobs/revenant-elegy/27024.gif"
+      }
+    }
+  }
+}
