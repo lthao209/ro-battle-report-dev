@@ -1,0 +1,3386 @@
+{
+  "1001": {
+    "name": "Scorpion",
+    "icon": "https://db.irowiki.org/image/monster/1001.png",
+    "mvp": false
+  },
+  "1002": {
+    "name": "Poring",
+    "icon": "https://db.irowiki.org/image/monster/1002.png",
+    "mvp": false
+  },
+  "1004": {
+    "name": "Bizz",
+    "icon": "https://db.irowiki.org/image/monster/1004.png",
+    "mvp": false
+  },
+  "1005": {
+    "name": "Familiar",
+    "icon": "https://db.irowiki.org/image/monster/1005.png",
+    "mvp": false
+  },
+  "1007": {
+    "name": "Fabre",
+    "icon": "https://db.irowiki.org/image/monster/1007.png",
+    "mvp": false
+  },
+  "1008": {
+    "name": "Pupa",
+    "icon": "https://db.irowiki.org/image/monster/1008.png",
+    "mvp": false
+  },
+  "1009": {
+    "name": "Condor",
+    "icon": "https://db.irowiki.org/image/monster/1009.png",
+    "mvp": false
+  },
+  "1010": {
+    "name": "Cepo do madeira",
+    "icon": "https://db.irowiki.org/image/monster/1010.png",
+    "mvp": false
+  },
+  "1011": {
+    "name": "Chonchon",
+    "icon": "https://db.irowiki.org/image/monster/1011.png",
+    "mvp": false
+  },
+  "1012": {
+    "name": "Roda Frog",
+    "icon": "https://db.irowiki.org/image/monster/1012.png",
+    "mvp": false
+  },
+  "1013": {
+    "name": "Wolf",
+    "icon": "https://db.irowiki.org/image/monster/1013.png",
+    "mvp": false
+  },
+  "1014": {
+    "name": "Spore",
+    "icon": "https://db.irowiki.org/image/monster/1014.png",
+    "mvp": false
+  },
+  "1015": {
+    "name": "Zombie",
+    "icon": "https://db.irowiki.org/image/monster/1015.png",
+    "mvp": false
+  },
+  "1016": {
+    "name": "Archer Skeleton",
+    "icon": "https://db.irowiki.org/image/monster/1016.png",
+    "mvp": false
+  },
+  "1018": {
+    "name": "Creamy",
+    "icon": "https://db.irowiki.org/image/monster/1018.png",
+    "mvp": false
+  },
+  "1019": {
+    "name": "PecoPeco",
+    "icon": "https://db.irowiki.org/image/monster/1019.png",
+    "mvp": false
+  },
+  "1020": {
+    "name": "Mandragora",
+    "icon": "https://db.irowiki.org/image/monster/1020.png",
+    "mvp": false
+  },
+  "1023": {
+    "name": "Grimgor",
+    "icon": "https://db.irowiki.org/image/monster/1023.png",
+    "mvp": false
+  },
+  "1024": {
+    "name": "Wormtail",
+    "icon": "https://db.irowiki.org/image/monster/1024.png",
+    "mvp": false
+  },
+  "1025": {
+    "name": "Boa",
+    "icon": "https://db.irowiki.org/image/monster/1025.png",
+    "mvp": false
+  },
+  "1026": {
+    "name": "Hsien Ko",
+    "icon": "https://db.irowiki.org/image/monster/1026.png",
+    "mvp": false
+  },
+  "1028": {
+    "name": "Soldier Skeleton",
+    "icon": "https://db.irowiki.org/image/monster/1028.png",
+    "mvp": false
+  },
+  "1029": {
+    "name": "Isis",
+    "icon": "https://db.irowiki.org/image/monster/1029.png",
+    "mvp": false
+  },
+  "1030": {
+    "name": "Anacondaq",
+    "icon": "https://db.irowiki.org/image/monster/1030.png",
+    "mvp": false
+  },
+  "1031": {
+    "name": "Poporing",
+    "icon": "https://db.irowiki.org/image/monster/1031.png",
+    "mvp": false
+  },
+  "1032": {
+    "name": "Verit",
+    "icon": "https://db.irowiki.org/image/monster/1032.png",
+    "mvp": false
+  },
+  "1033": {
+    "name": "Elder Willow",
+    "icon": "https://db.irowiki.org/image/monster/1033.png",
+    "mvp": false
+  },
+  "1034": {
+    "name": "Thara Frog",
+    "icon": "https://db.irowiki.org/image/monster/1034.png",
+    "mvp": false
+  },
+  "1035": {
+    "name": "Hunter Fly",
+    "icon": "https://db.irowiki.org/image/monster/1035.png",
+    "mvp": false
+  },
+  "1036": {
+    "name": "Ghoul",
+    "icon": "https://db.irowiki.org/image/monster/1036.png",
+    "mvp": false
+  },
+  "1037": {
+    "name": "Side Winder",
+    "icon": "https://db.irowiki.org/image/monster/1037.png",
+    "mvp": false
+  },
+  "1038": {
+    "name": "Osiris",
+    "icon": "https://db.irowiki.org/image/monster/1038.png",
+    "mvp": true
+  },
+  "1039": {
+    "name": "Baphomet",
+    "mvp": true,
+    "icon": "https://db.irowiki.org/image/monster/1039.png"
+  },
+  "1040": {
+    "name": "Golem",
+    "icon": "https://db.irowiki.org/image/monster/1040.png",
+    "mvp": false
+  },
+  "1041": {
+    "name": "Mummy",
+    "icon": "https://db.irowiki.org/image/monster/1041.png",
+    "mvp": false
+  },
+  "1042": {
+    "name": "Steel Chonchon",
+    "icon": "https://db.irowiki.org/image/monster/1042.png",
+    "mvp": false
+  },
+  "1044": {
+    "name": "Obeaune",
+    "icon": "https://db.irowiki.org/image/monster/1044.png",
+    "mvp": false
+  },
+  "1045": {
+    "name": "Marc",
+    "icon": "https://db.irowiki.org/image/monster/1045.png",
+    "mvp": false
+  },
+  "1046": {
+    "name": "Kobold",
+    "icon": "https://db.irowiki.org/image/monster/1046.png",
+    "mvp": true
+  },
+  "1047": {
+    "name": "Peco Peco Egg",
+    "icon": "https://db.irowiki.org/image/monster/1047.png",
+    "mvp": false
+  },
+  "1048": {
+    "name": "Thief Bug Egg",
+    "icon": "https://db.irowiki.org/image/monster/1048.png",
+    "mvp": false
+  },
+  "1049": {
+    "name": "Young Phoenix",
+    "icon": "https://db.irowiki.org/image/monster/1049.png",
+    "mvp": false
+  },
+  "1050": {
+    "name": "Picky",
+    "icon": "https://db.irowiki.org/image/monster/1050.png",
+    "mvp": false
+  },
+  "1051": {
+    "name": "Thief Bug",
+    "icon": "https://db.irowiki.org/image/monster/1051.png",
+    "mvp": false
+  },
+  "1052": {
+    "name": "Rocker",
+    "icon": "https://db.irowiki.org/image/monster/1052.png",
+    "mvp": false
+  },
+  "1053": {
+    "name": "Female Thief Bug",
+    "icon": "https://db.irowiki.org/image/monster/1053.png",
+    "mvp": false
+  },
+  "1054": {
+    "name": "Male Thief Bug",
+    "icon": "https://db.irowiki.org/image/monster/1054.png",
+    "mvp": false
+  },
+  "1055": {
+    "name": "Muka",
+    "icon": "https://db.irowiki.org/image/monster/1055.png",
+    "mvp": false
+  },
+  "1056": {
+    "name": "LittleFat",
+    "icon": "https://db.irowiki.org/image/monster/1056.png",
+    "mvp": false
+  },
+  "1057": {
+    "name": "Yoyo",
+    "icon": "https://db.irowiki.org/image/monster/1057.png",
+    "mvp": false
+  },
+  "1058": {
+    "name": "Gaff",
+    "icon": "https://db.irowiki.org/image/monster/1058.png",
+    "mvp": false
+  },
+  "1059": {
+    "name": "Mistress#ATM7",
+    "icon": "https://db.irowiki.org/image/monster/1059.png",
+    "mvp": true
+  },
+  "1060": {
+    "name": "Bigfoot",
+    "icon": "https://db.irowiki.org/image/monster/1060.png",
+    "mvp": false
+  },
+  "1061": {
+    "name": "Nightmare",
+    "icon": "https://db.irowiki.org/image/monster/1061.png",
+    "mvp": false
+  },
+  "1062": {
+    "name": "Santa Poring",
+    "icon": "https://db.irowiki.org/image/monster/1062.png",
+    "mvp": false
+  },
+  "1063": {
+    "name": "Chonkior",
+    "icon": "https://db.irowiki.org/image/monster/1063.png",
+    "mvp": false
+  },
+  "1064": {
+    "name": "Megalodon",
+    "icon": "https://db.irowiki.org/image/monster/1064.png",
+    "mvp": false
+  },
+  "1065": {
+    "name": "Strouf",
+    "icon": "https://db.irowiki.org/image/monster/1065.png",
+    "mvp": false
+  },
+  "1066": {
+    "name": "Vadon",
+    "icon": "https://db.irowiki.org/image/monster/1066.png",
+    "mvp": false
+  },
+  "1067": {
+    "name": "Cornutus",
+    "icon": "https://db.irowiki.org/image/monster/1067.png",
+    "mvp": false
+  },
+  "1068": {
+    "name": "Hydra",
+    "icon": "https://db.irowiki.org/image/monster/1068.png",
+    "mvp": false
+  },
+  "1069": {
+    "name": "Swordfish",
+    "icon": "https://db.irowiki.org/image/monster/1069.png",
+    "mvp": false
+  },
+  "1070": {
+    "name": "Kukre",
+    "icon": "https://db.irowiki.org/image/monster/1070.png",
+    "mvp": false
+  },
+  "1071": {
+    "name": "Pirate Skeleton",
+    "icon": "https://db.irowiki.org/image/monster/1071.png",
+    "mvp": false
+  },
+  "1072": {
+    "name": "Kaho",
+    "icon": "https://db.irowiki.org/image/monster/1072.png",
+    "mvp": false
+  },
+  "1073": {
+    "name": "Crab",
+    "icon": "https://db.irowiki.org/image/monster/1073.png",
+    "mvp": false
+  },
+  "1074": {
+    "name": "Shellfish",
+    "icon": "https://db.irowiki.org/image/monster/1074.png",
+    "mvp": false
+  },
+  "1076": {
+    "name": "Skeleton",
+    "icon": "https://db.irowiki.org/image/monster/1076.png",
+    "mvp": false
+  },
+  "1077": {
+    "name": "Poison Spore",
+    "icon": "https://db.irowiki.org/image/monster/1077.png",
+    "mvp": false
+  },
+  "1078": {
+    "name": "Red Plant",
+    "icon": "https://db.irowiki.org/image/monster/1078.png",
+    "mvp": false
+  },
+  "1079": {
+    "name": "Blue Plant",
+    "icon": "https://db.irowiki.org/image/monster/1079.png",
+    "mvp": false
+  },
+  "1080": {
+    "name": "Green Plant",
+    "icon": "https://db.irowiki.org/image/monster/1080.png",
+    "mvp": false
+  },
+  "1081": {
+    "name": "Yellow Plant",
+    "icon": "https://db.irowiki.org/image/monster/1081.png",
+    "mvp": false
+  },
+  "1082": {
+    "name": "White Plant",
+    "icon": "https://db.irowiki.org/image/monster/1082.png",
+    "mvp": false
+  },
+  "1083": {
+    "name": "Shining Plant",
+    "icon": "https://db.irowiki.org/image/monster/1083.png",
+    "mvp": false
+  },
+  "1084": {
+    "name": "Black Mushroom",
+    "icon": "https://db.irowiki.org/image/monster/1084.png",
+    "mvp": false
+  },
+  "1085": {
+    "name": "Red Mushroom",
+    "icon": "https://db.irowiki.org/image/monster/1085.png",
+    "mvp": false
+  },
+  "1086": {
+    "name": "Golden Thief Bug",
+    "icon": "https://db.irowiki.org/image/monster/1086.png",
+    "mvp": true
+  },
+  "1087": {
+    "name": "Orc Hero#ATM36",
+    "icon": "https://db.irowiki.org/image/monster/1087.png",
+    "mvp": true
+  },
+  "1088": {
+    "name": "Vocal",
+    "icon": "https://db.irowiki.org/image/monster/1088.png",
+    "mvp": false
+  },
+  "1089": {
+    "name": "Toad",
+    "icon": "https://db.irowiki.org/image/monster/1089.png",
+    "mvp": false
+  },
+  "1090": {
+    "name": "Mastering",
+    "icon": "https://db.irowiki.org/image/monster/1090.png",
+    "mvp": false
+  },
+  "1091": {
+    "name": "Dragon FLy",
+    "icon": "https://db.irowiki.org/image/monster/1091.png",
+    "mvp": false
+  },
+  "1092": {
+    "name": "Vagabond Wolf",
+    "icon": "https://db.irowiki.org/image/monster/1092.png",
+    "mvp": false
+  },
+  "1093": {
+    "name": "Eclipse",
+    "icon": "https://db.irowiki.org/image/monster/1093.png",
+    "mvp": false
+  },
+  "1094": {
+    "name": "Ambernite",
+    "icon": "https://db.irowiki.org/image/monster/1094.png",
+    "mvp": false
+  },
+  "1095": {
+    "name": "Andre",
+    "icon": "https://db.irowiki.org/image/monster/1095.png",
+    "mvp": false
+  },
+  "1096": {
+    "name": "Angeling",
+    "icon": "https://db.irowiki.org/image/monster/1096.png",
+    "mvp": false
+  },
+  "1097": {
+    "name": "Ant Egg",
+    "icon": "https://db.irowiki.org/image/monster/1097.png",
+    "mvp": false
+  },
+  "1098": {
+    "name": "Anubis",
+    "icon": "https://db.irowiki.org/image/monster/1098.png",
+    "mvp": false
+  },
+  "1099": {
+    "name": "Argiope",
+    "icon": "https://db.irowiki.org/image/monster/1099.png",
+    "mvp": false
+  },
+  "1100": {
+    "name": "Argos",
+    "icon": "https://db.irowiki.org/image/monster/1100.png",
+    "mvp": false
+  },
+  "1101": {
+    "name": "Baphomet Jr.",
+    "icon": "https://db.irowiki.org/image/monster/1101.png",
+    "mvp": false
+  },
+  "1102": {
+    "name": "Bathory",
+    "icon": "https://db.irowiki.org/image/monster/1102.png",
+    "mvp": false
+  },
+  "1103": {
+    "name": "Caramel",
+    "icon": "https://db.irowiki.org/image/monster/1103.png",
+    "mvp": false
+  },
+  "1104": {
+    "name": "Coco",
+    "icon": "https://db.irowiki.org/image/monster/1104.png",
+    "mvp": false
+  },
+  "1105": {
+    "name": "Deniro",
+    "icon": "https://db.irowiki.org/image/monster/1105.png",
+    "mvp": false
+  },
+  "1106": {
+    "name": "Wild Rose",
+    "icon": "https://db.irowiki.org/image/monster/1106.png",
+    "mvp": false
+  },
+  "1107": {
+    "name": "Baby Desert Wolf",
+    "icon": "https://db.irowiki.org/image/monster/1107.png",
+    "mvp": false
+  },
+  "1108": {
+    "name": "Deviace",
+    "icon": "https://db.irowiki.org/image/monster/1108.png",
+    "mvp": false
+  },
+  "1109": {
+    "name": "Deviruchi",
+    "icon": "https://db.irowiki.org/image/monster/1109.png",
+    "mvp": false
+  },
+  "1110": {
+    "name": "Dokebi",
+    "icon": "https://db.irowiki.org/image/monster/1110.png",
+    "mvp": false
+  },
+  "1111": {
+    "name": "Drainliar",
+    "icon": "https://db.irowiki.org/image/monster/1111.png",
+    "mvp": false
+  },
+  "1112": {
+    "name": "Drake",
+    "icon": "https://db.irowiki.org/image/monster/1112.png",
+    "mvp": true
+  },
+  "1113": {
+    "name": "Drops",
+    "icon": "https://db.irowiki.org/image/monster/1113.png",
+    "mvp": false
+  },
+  "1114": {
+    "name": "Dustiness",
+    "icon": "https://db.irowiki.org/image/monster/1114.png",
+    "mvp": false
+  },
+  "1115": {
+    "name": "Eddga",
+    "icon": "https://db.irowiki.org/image/monster/1115.png",
+    "mvp": true
+  },
+  "1116": {
+    "name": "Eggyra",
+    "icon": "https://db.irowiki.org/image/monster/1116.png",
+    "mvp": false
+  },
+  "1117": {
+    "name": "Evil Druid",
+    "icon": "https://db.irowiki.org/image/monster/1117.png",
+    "mvp": false
+  },
+  "1118": {
+    "name": "Flora",
+    "icon": "https://db.irowiki.org/image/monster/1118.png",
+    "mvp": false
+  },
+  "1119": {
+    "name": "Frilldora",
+    "icon": "https://db.irowiki.org/image/monster/1119.png",
+    "mvp": false
+  },
+  "1120": {
+    "name": "Ghostring",
+    "icon": "https://db.irowiki.org/image/monster/1120.png",
+    "mvp": false
+  },
+  "1121": {
+    "name": "Giearth",
+    "icon": "https://db.irowiki.org/image/monster/1121.png",
+    "mvp": false
+  },
+  "1122": {
+    "name": "Goblin Dagger",
+    "icon": "https://db.irowiki.org/image/monster/1122.png",
+    "mvp": false
+  },
+  "1123": {
+    "name": "Goblin Flail",
+    "icon": "https://db.irowiki.org/image/monster/1123.png",
+    "mvp": false
+  },
+  "1124": {
+    "name": "Goblin Axe",
+    "icon": "https://db.irowiki.org/image/monster/1124.png",
+    "mvp": false
+  },
+  "1125": {
+    "name": "Goblin Hammer",
+    "icon": "https://db.irowiki.org/image/monster/1125.png",
+    "mvp": false
+  },
+  "1126": {
+    "name": "Goblin Mace",
+    "icon": "https://db.irowiki.org/image/monster/1126.png",
+    "mvp": false
+  },
+  "1127": {
+    "name": "Hode",
+    "icon": "https://db.irowiki.org/image/monster/1127.png",
+    "mvp": false
+  },
+  "1128": {
+    "name": "Horn",
+    "icon": "https://db.irowiki.org/image/monster/1128.png",
+    "mvp": false
+  },
+  "1129": {
+    "name": "Horong",
+    "icon": "https://db.irowiki.org/image/monster/1129.png",
+    "mvp": false
+  },
+  "1130": {
+    "name": "Jakk",
+    "icon": "https://db.irowiki.org/image/monster/1130.png",
+    "mvp": false
+  },
+  "1131": {
+    "name": "Joker",
+    "icon": "https://db.irowiki.org/image/monster/1131.png",
+    "mvp": false
+  },
+  "1132": {
+    "name": "Khalitzburg",
+    "icon": "https://db.irowiki.org/image/monster/1132.png",
+    "mvp": false
+  },
+  "1133": {
+    "name": "Kobold Axe",
+    "icon": "https://db.irowiki.org/image/monster/1133.png",
+    "mvp": false
+  },
+  "1134": {
+    "name": "Kobold Hammer",
+    "icon": "https://db.irowiki.org/image/monster/1134.png",
+    "mvp": false
+  },
+  "1135": {
+    "name": "Kobold Mace",
+    "icon": "https://db.irowiki.org/image/monster/1135.png",
+    "mvp": false
+  },
+  "1138": {
+    "name": "Magnolia",
+    "icon": "https://db.irowiki.org/image/monster/1138.png",
+    "mvp": false
+  },
+  "1139": {
+    "name": "Mantis",
+    "icon": "https://db.irowiki.org/image/monster/1139.png",
+    "mvp": false
+  },
+  "1140": {
+    "name": "Marduk",
+    "icon": "https://db.irowiki.org/image/monster/1140.png",
+    "mvp": false
+  },
+  "1141": {
+    "name": "Marina",
+    "icon": "https://db.irowiki.org/image/monster/1141.png",
+    "mvp": false
+  },
+  "1142": {
+    "name": "Marine Sphere",
+    "icon": "https://db.irowiki.org/image/monster/1142.png",
+    "mvp": false
+  },
+  "1143": {
+    "name": "Eddga",
+    "icon": "https://db.irowiki.org/image/monster/1143.png",
+    "mvp": false
+  },
+  "1144": {
+    "name": "Marse",
+    "icon": "https://db.irowiki.org/image/monster/1144.png",
+    "mvp": false
+  },
+  "1145": {
+    "name": "Martin",
+    "icon": "https://db.irowiki.org/image/monster/1145.png",
+    "mvp": false
+  },
+  "1146": {
+    "name": "Matyr",
+    "icon": "https://db.irowiki.org/image/monster/1146.png",
+    "mvp": false
+  },
+  "1147": {
+    "name": "Maya#ATM38",
+    "icon": "https://db.irowiki.org/image/monster/1147.png",
+    "mvp": true
+  },
+  "1148": {
+    "name": "Angeling",
+    "icon": "https://db.irowiki.org/image/monster/1148.png",
+    "mvp": false
+  },
+  "1149": {
+    "name": "Minorous",
+    "icon": "https://db.irowiki.org/image/monster/1149.png",
+    "mvp": false
+  },
+  "1150": {
+    "name": "Moonlight Flower",
+    "icon": "https://db.irowiki.org/image/monster/1150.png",
+    "mvp": true
+  },
+  "1151": {
+    "name": "Myst",
+    "icon": "https://db.irowiki.org/image/monster/1151.png",
+    "mvp": false
+  },
+  "1152": {
+    "name": "Bone Guardian",
+    "icon": "https://db.irowiki.org/image/monster/1152.png",
+    "mvp": false
+  },
+  "1153": {
+    "name": "Orc Zombie",
+    "icon": "https://db.irowiki.org/image/monster/1153.png",
+    "mvp": false
+  },
+  "1154": {
+    "name": "Pasana",
+    "icon": "https://db.irowiki.org/image/monster/1154.png",
+    "mvp": false
+  },
+  "1155": {
+    "name": "Matcha Milktea",
+    "icon": "https://db.irowiki.org/image/monster/1155.png",
+    "mvp": false
+  },
+  "1156": {
+    "name": "Petite Sky",
+    "icon": "https://db.irowiki.org/image/monster/1156.png",
+    "mvp": false
+  },
+  "1157": {
+    "name": "Pharaoh",
+    "icon": "https://db.irowiki.org/image/monster/1157.png",
+    "mvp": true
+  },
+  "1158": {
+    "name": "Phen",
+    "icon": "https://db.irowiki.org/image/monster/1158.png",
+    "mvp": false
+  },
+  "1159": {
+    "name": "Phreeoni",
+    "icon": "https://db.irowiki.org/image/monster/1159.png",
+    "mvp": true
+  },
+  "1160": {
+    "name": "Piere",
+    "icon": "https://db.irowiki.org/image/monster/1160.png",
+    "mvp": false
+  },
+  "1161": {
+    "name": "Plankton",
+    "icon": "https://db.irowiki.org/image/monster/1161.png",
+    "mvp": false
+  },
+  "1162": {
+    "name": "Rafflesia",
+    "icon": "https://db.irowiki.org/image/monster/1162.png",
+    "mvp": false
+  },
+  "1163": {
+    "name": "Raydric",
+    "icon": "https://db.irowiki.org/image/monster/1163.png",
+    "mvp": false
+  },
+  "1164": {
+    "name": "Requiem",
+    "icon": "https://db.irowiki.org/image/monster/1164.png",
+    "mvp": false
+  },
+  "1165": {
+    "name": "Sandman",
+    "icon": "https://db.irowiki.org/image/monster/1165.png",
+    "mvp": false
+  },
+  "1166": {
+    "name": "Savage",
+    "icon": "https://db.irowiki.org/image/monster/1166.png",
+    "mvp": false
+  },
+  "1167": {
+    "name": "Savage Babe",
+    "icon": "https://db.irowiki.org/image/monster/1167.png",
+    "mvp": false
+  },
+  "1169": {
+    "name": "Skel Worker",
+    "icon": "https://db.irowiki.org/image/monster/1169.png",
+    "mvp": false
+  },
+  "1170": {
+    "name": "Sohee",
+    "icon": "https://db.irowiki.org/image/monster/1170.png",
+    "mvp": false
+  },
+  "1174": {
+    "name": "Stainer",
+    "icon": "https://db.irowiki.org/image/monster/1174.png",
+    "mvp": false
+  },
+  "1175": {
+    "name": "Tarou",
+    "icon": "https://db.irowiki.org/image/monster/1175.png",
+    "mvp": false
+  },
+  "1176": {
+    "name": "Vitata",
+    "icon": "https://db.irowiki.org/image/monster/1176.png",
+    "mvp": false
+  },
+  "1177": {
+    "name": "Zenorc",
+    "icon": "https://db.irowiki.org/image/monster/1177.png",
+    "mvp": false
+  },
+  "1178": {
+    "name": "Zerom",
+    "icon": "https://db.irowiki.org/image/monster/1178.png",
+    "mvp": false
+  },
+  "1179": {
+    "name": "Whisper",
+    "icon": "https://db.irowiki.org/image/monster/1179.png",
+    "mvp": false
+  },
+  "1180": {
+    "name": "Nine Tail",
+    "icon": "https://db.irowiki.org/image/monster/1180.png",
+    "mvp": false
+  },
+  "1185": {
+    "name": "Whisper Immobile",
+    "icon": "https://db.irowiki.org/image/monster/1185.png",
+    "mvp": false
+  },
+  "1186": {
+    "name": "Giant Whisper",
+    "icon": "https://db.irowiki.org/image/monster/1186.png",
+    "mvp": false
+  },
+  "1188": {
+    "name": "Bon Gun",
+    "icon": "https://db.irowiki.org/image/monster/1188.png",
+    "mvp": false
+  },
+  "1189": {
+    "name": "Orc Archer",
+    "icon": "https://db.irowiki.org/image/monster/1189.png",
+    "mvp": false
+  },
+  "1190": {
+    "name": "Orc Lord",
+    "icon": "https://db.irowiki.org/image/monster/1190.png",
+    "mvp": true
+  },
+  "1191": {
+    "name": "Mimic",
+    "icon": "https://db.irowiki.org/image/monster/1191.png",
+    "mvp": false
+  },
+  "1192": {
+    "name": "Wraith",
+    "icon": "https://db.irowiki.org/image/monster/1192.png",
+    "mvp": false
+  },
+  "1193": {
+    "name": "Alarm",
+    "icon": "https://db.irowiki.org/image/monster/1193.png",
+    "mvp": false
+  },
+  "1194": {
+    "name": "Arclouze",
+    "icon": "https://db.irowiki.org/image/monster/1194.png",
+    "mvp": false
+  },
+  "1195": {
+    "name": "Rideword",
+    "icon": "https://db.irowiki.org/image/monster/1195.png",
+    "mvp": false
+  },
+  "1196": {
+    "name": "Skel Prisoner",
+    "icon": "https://db.irowiki.org/image/monster/1196.png",
+    "mvp": false
+  },
+  "1197": {
+    "name": "Zombie Prisoner",
+    "icon": "https://db.irowiki.org/image/monster/1197.png",
+    "mvp": false
+  },
+  "1198": {
+    "name": "Dark Priest",
+    "icon": "https://db.irowiki.org/image/monster/1198.png",
+    "mvp": false
+  },
+  "1199": {
+    "name": "Punk",
+    "icon": "https://db.irowiki.org/image/monster/1199.png",
+    "mvp": false
+  },
+  "1200": {
+    "name": "Zealotus",
+    "icon": "https://db.irowiki.org/image/monster/1200.png",
+    "mvp": false
+  },
+  "1201": {
+    "name": "Rybio",
+    "icon": "https://db.irowiki.org/image/monster/1201.png",
+    "mvp": false
+  },
+  "1202": {
+    "name": "Phendark",
+    "icon": "https://db.irowiki.org/image/monster/1202.png",
+    "mvp": false
+  },
+  "1203": {
+    "name": "Mysteltainn",
+    "icon": "https://db.irowiki.org/image/monster/1203.png",
+    "mvp": false
+  },
+  "1204": {
+    "name": "Ogretooth",
+    "icon": "https://db.irowiki.org/image/monster/1204.png",
+    "mvp": false
+  },
+  "1205": {
+    "name": "Executioner",
+    "icon": "https://db.irowiki.org/image/monster/1205.png",
+    "mvp": false
+  },
+  "1206": {
+    "name": "Anolian",
+    "icon": "https://db.irowiki.org/image/monster/1206.png",
+    "mvp": false
+  },
+  "1207": {
+    "name": "Sting",
+    "icon": "https://db.irowiki.org/image/monster/1207.png",
+    "mvp": false
+  },
+  "1208": {
+    "name": "Wanderer",
+    "icon": "https://db.irowiki.org/image/monster/1208.png",
+    "mvp": false
+  },
+  "1209": {
+    "name": "Cramp",
+    "icon": "https://db.irowiki.org/image/monster/1209.png",
+    "mvp": false
+  },
+  "1211": {
+    "name": "Brilight",
+    "icon": "https://db.irowiki.org/image/monster/1211.png",
+    "mvp": false
+  },
+  "1212": {
+    "name": "Iron Fist",
+    "icon": "https://db.irowiki.org/image/monster/1212.png",
+    "mvp": false
+  },
+  "1213": {
+    "name": "High Orc",
+    "icon": "https://db.irowiki.org/image/monster/1213.png",
+    "mvp": false
+  },
+  "1214": {
+    "name": "Choco",
+    "icon": "https://db.irowiki.org/image/monster/1214.png",
+    "mvp": false
+  },
+  "1215": {
+    "name": "Stem Worm",
+    "icon": "https://db.irowiki.org/image/monster/1215.png",
+    "mvp": false
+  },
+  "1216": {
+    "name": "Penomena",
+    "icon": "https://db.irowiki.org/image/monster/1216.png",
+    "mvp": false
+  },
+  "1219": {
+    "name": "Abysmal Knight",
+    "icon": "https://db.irowiki.org/image/monster/1219.png",
+    "mvp": false
+  },
+  "1242": {
+    "name": "Marin",
+    "icon": "https://db.irowiki.org/image/monster/1242.png",
+    "mvp": false
+  },
+  "1243": {
+    "name": "Sasquatch",
+    "icon": "https://db.irowiki.org/image/monster/1243.png",
+    "mvp": false
+  },
+  "1245": {
+    "name": "Santa Goblin",
+    "icon": "https://db.irowiki.org/image/monster/1245.png",
+    "mvp": false
+  },
+  "1246": {
+    "name": "Christmas Cookie",
+    "icon": "https://db.irowiki.org/image/monster/1246.png",
+    "mvp": false
+  },
+  "1247": {
+    "name": "Antonio",
+    "icon": "https://db.irowiki.org/image/monster/1247.png",
+    "mvp": false
+  },
+  "1248": {
+    "name": "Cruiser",
+    "icon": "https://db.irowiki.org/image/monster/1248.png",
+    "mvp": false
+  },
+  "1249": {
+    "name": "Myst Case",
+    "icon": "https://db.irowiki.org/image/monster/1249.png",
+    "mvp": false
+  },
+  "1250": {
+    "name": "Chepet",
+    "icon": "https://db.irowiki.org/image/monster/1250.png",
+    "mvp": false
+  },
+  "1251": {
+    "name": "Stormy Knight",
+    "icon": "https://db.irowiki.org/image/monster/1251.png",
+    "mvp": true
+  },
+  "1252": {
+    "name": "Chepet",
+    "icon": "https://db.irowiki.org/image/monster/1252.png",
+    "mvp": true
+  },
+  "1253": {
+    "name": "Gargoyle",
+    "icon": "https://db.irowiki.org/image/monster/1253.png",
+    "mvp": false
+  },
+  "1254": {
+    "name": "Raggler",
+    "icon": "https://db.irowiki.org/image/monster/1254.png",
+    "mvp": false
+  },
+  "1255": {
+    "name": "Nereid",
+    "icon": "https://db.irowiki.org/image/monster/1255.png",
+    "mvp": false
+  },
+  "1256": {
+    "name": "Pest",
+    "icon": "https://db.irowiki.org/image/monster/1256.png",
+    "mvp": false
+  },
+  "1257": {
+    "name": "Injustice",
+    "icon": "https://db.irowiki.org/image/monster/1257.png",
+    "mvp": false
+  },
+  "1258": {
+    "name": "Goblin Archer",
+    "icon": "https://db.irowiki.org/image/monster/1258.png",
+    "mvp": false
+  },
+  "1259": {
+    "name": "Gryphon",
+    "icon": "https://db.irowiki.org/image/monster/1259.png",
+    "mvp": false
+  },
+  "1260": {
+    "name": "Dark Frame",
+    "icon": "https://db.irowiki.org/image/monster/1260.png",
+    "mvp": false
+  },
+  "1261": {
+    "name": "Wild Rose",
+    "icon": "https://db.irowiki.org/image/monster/1261.png",
+    "mvp": false
+  },
+  "1262": {
+    "name": "Mutant Dragonoid",
+    "icon": "https://db.irowiki.org/image/monster/1262.png",
+    "mvp": false
+  },
+  "1263": {
+    "name": "Wind Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1263.png",
+    "mvp": false
+  },
+  "1264": {
+    "name": "Merman",
+    "icon": "https://db.irowiki.org/image/monster/1264.png",
+    "mvp": false
+  },
+  "1265": {
+    "name": "Cookie Green",
+    "icon": "https://db.irowiki.org/image/monster/1265.png",
+    "mvp": false
+  },
+  "1266": {
+    "name": "Aster",
+    "icon": "https://db.irowiki.org/image/monster/1266.png",
+    "mvp": false
+  },
+  "1267": {
+    "name": "Carat",
+    "icon": "https://db.irowiki.org/image/monster/1267.png",
+    "mvp": false
+  },
+  "1268": {
+    "name": "Bloody Knight",
+    "icon": "https://db.irowiki.org/image/monster/1268.png",
+    "mvp": false
+  },
+  "1269": {
+    "name": "Clock",
+    "icon": "https://db.irowiki.org/image/monster/1269.png",
+    "mvp": false
+  },
+  "1270": {
+    "name": "Tower Keeper",
+    "icon": "https://db.irowiki.org/image/monster/1270.png",
+    "mvp": false
+  },
+  "1271": {
+    "name": "Alligator",
+    "icon": "https://db.irowiki.org/image/monster/1271.png",
+    "mvp": false
+  },
+  "1272": {
+    "name": "Kiel-D-01",
+    "icon": "https://db.irowiki.org/image/monster/1272.png",
+    "mvp": true
+  },
+  "1273": {
+    "name": "Orc Lady",
+    "icon": "https://db.irowiki.org/image/monster/1273.png",
+    "mvp": false
+  },
+  "1274": {
+    "name": "Megalith",
+    "icon": "https://db.irowiki.org/image/monster/1274.png",
+    "mvp": false
+  },
+  "1275": {
+    "name": "Incubus",
+    "icon": "https://db.irowiki.org/image/monster/1275.png",
+    "mvp": false
+  },
+  "1276": {
+    "name": "Raydric Archer",
+    "icon": "https://db.irowiki.org/image/monster/1276.png",
+    "mvp": false
+  },
+  "1277": {
+    "name": "Greatest General",
+    "icon": "https://db.irowiki.org/image/monster/1277.png",
+    "mvp": false
+  },
+  "1278": {
+    "name": "Stalactic Golem",
+    "icon": "https://db.irowiki.org/image/monster/1278.png",
+    "mvp": false
+  },
+  "1279": {
+    "name": "Tri Joint",
+    "icon": "https://db.irowiki.org/image/monster/1279.png",
+    "mvp": false
+  },
+  "1280": {
+    "name": "Goblin Steamrider",
+    "icon": "https://db.irowiki.org/image/monster/1280.png",
+    "mvp": false
+  },
+  "1281": {
+    "name": "Sageworm",
+    "icon": "https://db.irowiki.org/image/monster/1281.png",
+    "mvp": false
+  },
+  "1282": {
+    "name": "Kobold Archer",
+    "icon": "https://db.irowiki.org/image/monster/1282.png",
+    "mvp": false
+  },
+  "1283": {
+    "name": "Chimera",
+    "icon": "https://db.irowiki.org/image/monster/1283.png",
+    "mvp": false
+  },
+  "1285": {
+    "name": "Archer Guardian",
+    "icon": "https://db.irowiki.org/image/monster/1285.png",
+    "mvp": false
+  },
+  "1286": {
+    "name": "Knight Guardian",
+    "icon": "https://db.irowiki.org/image/monster/1286.png",
+    "mvp": false
+  },
+  "1287": {
+    "name": "Soldier Guardian",
+    "icon": "https://db.irowiki.org/image/monster/1287.png",
+    "mvp": false
+  },
+  "1288": {
+    "name": "Emperium",
+    "icon": "https://db.irowiki.org/image/monster/1288.png",
+    "mvp": false
+  },
+  "1289": {
+    "name": "Maya Purple",
+    "icon": "https://db.irowiki.org/image/monster/1289.png",
+    "mvp": false
+  },
+  "1290": {
+    "name": "Skeleton General",
+    "icon": "https://db.irowiki.org/image/monster/1290.png",
+    "mvp": false
+  },
+  "1291": {
+    "name": "Wraith Dead",
+    "icon": "https://db.irowiki.org/image/monster/1291.png",
+    "mvp": false
+  },
+  "1292": {
+    "name": "Mini Demon",
+    "icon": "https://db.irowiki.org/image/monster/1292.png",
+    "mvp": false
+  },
+  "1293": {
+    "name": "Creamy Fear",
+    "icon": "https://db.irowiki.org/image/monster/1293.png",
+    "mvp": false
+  },
+  "1294": {
+    "name": "Killer Mantis",
+    "icon": "https://db.irowiki.org/image/monster/1294.png",
+    "mvp": false
+  },
+  "1295": {
+    "name": "Owl Baron",
+    "icon": "https://db.irowiki.org/image/monster/1295.png",
+    "mvp": false
+  },
+  "1296": {
+    "name": "Kobold Leader",
+    "icon": "https://db.irowiki.org/image/monster/1296.png",
+    "mvp": false
+  },
+  "1297": {
+    "name": "Ancient Mummy",
+    "icon": "https://db.irowiki.org/image/monster/1297.png",
+    "mvp": false
+  },
+  "1298": {
+    "name": "Zombie Master",
+    "icon": "https://db.irowiki.org/image/monster/1298.png",
+    "mvp": false
+  },
+  "1299": {
+    "name": "Bala Azedinha",
+    "icon": "https://db.irowiki.org/image/monster/1299.png",
+    "mvp": false
+  },
+  "1300": {
+    "name": "Caterpillar",
+    "icon": "https://db.irowiki.org/image/monster/1300.png",
+    "mvp": false
+  },
+  "1301": {
+    "name": "Bao Bao",
+    "icon": "https://db.irowiki.org/image/monster/1301.png",
+    "mvp": false
+  },
+  "1302": {
+    "name": "Dark Illusion",
+    "icon": "https://db.irowiki.org/image/monster/1302.png",
+    "mvp": false
+  },
+  "1303": {
+    "name": "Giant Hornet",
+    "icon": "https://db.irowiki.org/image/monster/1303.png",
+    "mvp": false
+  },
+  "1304": {
+    "name": "Giant Spider",
+    "icon": "https://db.irowiki.org/image/monster/1304.png",
+    "mvp": false
+  },
+  "1305": {
+    "name": "Ancient Worm",
+    "icon": "https://db.irowiki.org/image/monster/1305.png",
+    "mvp": false
+  },
+  "1306": {
+    "name": "Leib Olmai",
+    "icon": "https://db.irowiki.org/image/monster/1306.png",
+    "mvp": false
+  },
+  "1307": {
+    "name": "Cat o' Nine Tails",
+    "icon": "https://db.irowiki.org/image/monster/1307.png",
+    "mvp": false
+  },
+  "1308": {
+    "name": "Panzer Goblin",
+    "icon": "https://db.irowiki.org/image/monster/1308.png",
+    "mvp": false
+  },
+  "1309": {
+    "name": "Gajomart",
+    "icon": "https://db.irowiki.org/image/monster/1309.png",
+    "mvp": false
+  },
+  "1310": {
+    "name": "Majoruros",
+    "icon": "https://db.irowiki.org/image/monster/1310.png",
+    "mvp": false
+  },
+  "1311": {
+    "name": "Gullinbursti",
+    "icon": "https://db.irowiki.org/image/monster/1311.png",
+    "mvp": false
+  },
+  "1312": {
+    "name": "Turtle General",
+    "icon": "https://db.irowiki.org/image/monster/1312.png",
+    "mvp": true
+  },
+  "1313": {
+    "name": "Mobster",
+    "icon": "https://db.irowiki.org/image/monster/1313.png",
+    "mvp": false
+  },
+  "1314": {
+    "name": "Permeter",
+    "icon": "https://db.irowiki.org/image/monster/1314.png",
+    "mvp": false
+  },
+  "1315": {
+    "name": "Assaulter",
+    "icon": "https://db.irowiki.org/image/monster/1315.png",
+    "mvp": false
+  },
+  "1316": {
+    "name": "Solider",
+    "icon": "https://db.irowiki.org/image/monster/1316.png",
+    "mvp": false
+  },
+  "1317": {
+    "name": "Seal",
+    "icon": "https://db.irowiki.org/image/monster/1317.png",
+    "mvp": false
+  },
+  "1318": {
+    "name": "Heater",
+    "icon": "https://db.irowiki.org/image/monster/1318.png",
+    "mvp": false
+  },
+  "1319": {
+    "name": "Freezer",
+    "icon": "https://db.irowiki.org/image/monster/1319.png",
+    "mvp": false
+  },
+  "1320": {
+    "name": "Owl Duke",
+    "icon": "https://db.irowiki.org/image/monster/1320.png",
+    "mvp": false
+  },
+  "1321": {
+    "name": "Dragon Tail",
+    "icon": "https://db.irowiki.org/image/monster/1321.png",
+    "mvp": false
+  },
+  "1322": {
+    "name": "Spring Rabbit",
+    "icon": "https://db.irowiki.org/image/monster/1322.png",
+    "mvp": false
+  },
+  "1323": {
+    "name": "Sea Otter",
+    "icon": "https://db.irowiki.org/image/monster/1323.png",
+    "mvp": false
+  },
+  "1364": {
+    "name": "Assaulter Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1364.png",
+    "mvp": false
+  },
+  "1365": {
+    "name": "Apocalypse",
+    "icon": "https://db.irowiki.org/image/monster/1365.png",
+    "mvp": false
+  },
+  "1366": {
+    "name": "Lava Golem",
+    "icon": "https://db.irowiki.org/image/monster/1366.png",
+    "mvp": false
+  },
+  "1367": {
+    "name": "Blazer",
+    "icon": "https://db.irowiki.org/image/monster/1367.png",
+    "mvp": false
+  },
+  "1368": {
+    "name": "Geographer",
+    "icon": "https://db.irowiki.org/image/monster/1368.png",
+    "mvp": false
+  },
+  "1369": {
+    "name": "INDIASSO",
+    "icon": "https://db.irowiki.org/image/monster/1369.png",
+    "mvp": false
+  },
+  "1370": {
+    "name": "Succubus",
+    "icon": "https://db.irowiki.org/image/monster/1370.png",
+    "mvp": false
+  },
+  "1371": {
+    "name": "False Angel",
+    "icon": "https://db.irowiki.org/image/monster/1371.png",
+    "mvp": false
+  },
+  "1372": {
+    "name": "Goat",
+    "icon": "https://db.irowiki.org/image/monster/1372.png",
+    "mvp": false
+  },
+  "1373": {
+    "name": "Lord of Death",
+    "mvp": true,
+    "icon": "https://db.irowiki.org/image/monster/1373.png"
+  },
+  "1374": {
+    "name": "Mephisto",
+    "icon": "https://db.irowiki.org/image/monster/1374.png",
+    "mvp": false
+  },
+  "1375": {
+    "name": "The Paper",
+    "icon": "https://db.irowiki.org/image/monster/1375.png",
+    "mvp": false
+  },
+  "1376": {
+    "name": "Harpy#ATM29",
+    "icon": "https://db.irowiki.org/image/monster/1376.png",
+    "mvp": false
+  },
+  "1377": {
+    "name": "Elder",
+    "icon": "https://db.irowiki.org/image/monster/1377.png",
+    "mvp": false
+  },
+  "1378": {
+    "name": "Demon Pungus",
+    "icon": "https://db.irowiki.org/image/monster/1378.png",
+    "mvp": false
+  },
+  "1379": {
+    "name": "Nightmare Terror",
+    "icon": "https://db.irowiki.org/image/monster/1379.png",
+    "mvp": false
+  },
+  "1380": {
+    "name": "Driller",
+    "icon": "https://db.irowiki.org/image/monster/1380.png",
+    "mvp": false
+  },
+  "1381": {
+    "name": "Grizzly",
+    "icon": "https://db.irowiki.org/image/monster/1381.png",
+    "mvp": false
+  },
+  "1382": {
+    "name": "Diabolic",
+    "icon": "https://db.irowiki.org/image/monster/1382.png",
+    "mvp": false
+  },
+  "1383": {
+    "name": "Explosion",
+    "icon": "https://db.irowiki.org/image/monster/1383.png",
+    "mvp": false
+  },
+  "1384": {
+    "name": "Deleter Sky",
+    "icon": "https://db.irowiki.org/image/monster/1384.png",
+    "mvp": false
+  },
+  "1385": {
+    "name": "Deleter Ground",
+    "icon": "https://db.irowiki.org/image/monster/1385.png",
+    "mvp": false
+  },
+  "1386": {
+    "name": "Sleeper",
+    "icon": "https://db.irowiki.org/image/monster/1386.png",
+    "mvp": false
+  },
+  "1387": {
+    "name": "Gig",
+    "icon": "https://db.irowiki.org/image/monster/1387.png",
+    "mvp": false
+  },
+  "1388": {
+    "name": "Arc Angeling",
+    "icon": "https://db.irowiki.org/image/monster/1388.png",
+    "mvp": false
+  },
+  "1389": {
+    "name": "Baphomet",
+    "icon": "https://db.irowiki.org/image/monster/1389.png",
+    "mvp": true
+  },
+  "1390": {
+    "name": "Violy",
+    "icon": "https://db.irowiki.org/image/monster/1390.png",
+    "mvp": false
+  },
+  "1391": {
+    "name": "Galapago",
+    "icon": "https://db.irowiki.org/image/monster/1391.png",
+    "mvp": false
+  },
+  "1392": {
+    "name": "Rotar Zairo",
+    "icon": "https://db.irowiki.org/image/monster/1392.png",
+    "mvp": false
+  },
+  "1399": {
+    "name": "Super Baphomet",
+    "icon": "https://db.irowiki.org/image/monster/1399.png",
+    "mvp": true
+  },
+  "1400": {
+    "name": "Karakasa",
+    "icon": "https://db.irowiki.org/image/monster/1400.png",
+    "mvp": false
+  },
+  "1401": {
+    "name": "Shinobi",
+    "icon": "https://db.irowiki.org/image/monster/1401.png",
+    "mvp": false
+  },
+  "1402": {
+    "name": "Poisonous Toad",
+    "icon": "https://db.irowiki.org/image/monster/1402.png",
+    "mvp": false
+  },
+  "1403": {
+    "name": "Firelock Soldier",
+    "icon": "https://db.irowiki.org/image/monster/1403.png",
+    "mvp": false
+  },
+  "1404": {
+    "name": "Araragi Tsukihi",
+    "icon": "https://db.irowiki.org/image/monster/1404.png",
+    "mvp": false
+  },
+  "1405": {
+    "name": "Tengu",
+    "icon": "https://db.irowiki.org/image/monster/1405.png",
+    "mvp": false
+  },
+  "1406": {
+    "name": "Kapha",
+    "icon": "https://db.irowiki.org/image/monster/1406.png",
+    "mvp": false
+  },
+  "1408": {
+    "name": "Bloody Butterfly",
+    "icon": "https://db.irowiki.org/image/monster/1408.png",
+    "mvp": false
+  },
+  "1409": {
+    "name": "Rice Cake Boy",
+    "icon": "https://db.irowiki.org/image/monster/1409.png",
+    "mvp": false
+  },
+  "1410": {
+    "name": "Enchanted Peach Tree",
+    "icon": "https://db.irowiki.org/image/monster/1410.png",
+    "mvp": false
+  },
+  "1412": {
+    "name": "Taoist Hermit",
+    "icon": "https://db.irowiki.org/image/monster/1412.png",
+    "mvp": false
+  },
+  "1413": {
+    "name": "Hermit Plant",
+    "icon": "https://db.irowiki.org/image/monster/1413.png",
+    "mvp": false
+  },
+  "1415": {
+    "name": "Baby Leopard",
+    "icon": "https://db.irowiki.org/image/monster/1415.png",
+    "mvp": false
+  },
+  "1416": {
+    "name": "Evil Nymph",
+    "icon": "https://db.irowiki.org/image/monster/1416.png",
+    "mvp": false
+  },
+  "1417": {
+    "name": "Zipper Bear",
+    "icon": "https://db.irowiki.org/image/monster/1417.png",
+    "mvp": false
+  },
+  "1418": {
+    "name": "Evil Snake Lord#ATM27",
+    "icon": "https://db.irowiki.org/image/monster/1418.png",
+    "mvp": true
+  },
+  "1419": {
+    "name": "Familiar Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1419.png",
+    "mvp": false
+  },
+  "1427": {
+    "name": "Nightmare Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1427.png",
+    "mvp": false
+  },
+  "1431": {
+    "name": "Baphomet Jr.",
+    "icon": "https://db.irowiki.org/image/monster/1431.png",
+    "mvp": false
+  },
+  "1433": {
+    "name": "Deviruchi",
+    "icon": "https://db.irowiki.org/image/monster/1433.png",
+    "mvp": false
+  },
+  "1438": {
+    "name": "Khalitzburg Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1438.png",
+    "mvp": false
+  },
+  "1439": {
+    "name": "High Orc Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1439.png",
+    "mvp": false
+  },
+  "1443": {
+    "name": "Cruiser",
+    "icon": "https://db.irowiki.org/image/monster/1443.png",
+    "mvp": false
+  },
+  "1456": {
+    "name": "Chimera",
+    "icon": "https://db.irowiki.org/image/monster/1456.png"
+  },
+  "1458": {
+    "name": "Marduk Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1458.png",
+    "mvp": false
+  },
+  "1464": {
+    "name": "Pasana Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1464.png",
+    "mvp": false
+  },
+  "1471": {
+    "name": "Nine Tail Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1471.png",
+    "mvp": false
+  },
+  "1473": {
+    "name": "Orc Archer Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1473.png",
+    "mvp": false
+  },
+  "1474": {
+    "name": "Mimic Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1474.png",
+    "mvp": false
+  },
+  "1477": {
+    "name": "Arclouze Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1477.png",
+    "mvp": false
+  },
+  "1490": {
+    "name": "Wanderer#ATM26",
+    "mvp": false,
+    "icon": "https://db.irowiki.org/image/monster/1490.png"
+  },
+  "1491": {
+    "name": "Dokebi",
+    "icon": "https://db.irowiki.org/image/monster/1491.png",
+    "mvp": false
+  },
+  "1492": {
+    "name": "Incantation Samurai#ATM",
+    "icon": "https://db.irowiki.org/image/monster/1492.png",
+    "mvp": true
+  },
+  "1493": {
+    "name": "Dryad",
+    "icon": "https://db.irowiki.org/image/monster/1493.png",
+    "mvp": false
+  },
+  "1494": {
+    "name": "Bettle King",
+    "icon": "https://db.irowiki.org/image/monster/1494.png",
+    "mvp": false
+  },
+  "1495": {
+    "name": "Stone Shooter",
+    "icon": "https://db.irowiki.org/image/monster/1495.png",
+    "mvp": false
+  },
+  "1497": {
+    "name": "Wooden Golem",
+    "icon": "https://db.irowiki.org/image/monster/1497.png",
+    "mvp": false
+  },
+  "1498": {
+    "name": "Wootan Shooter",
+    "icon": "https://db.irowiki.org/image/monster/1498.png",
+    "mvp": false
+  },
+  "1499": {
+    "name": "Wootan Fighter",
+    "icon": "https://db.irowiki.org/image/monster/1499.png",
+    "mvp": false
+  },
+  "1500": {
+    "name": "Parasite",
+    "icon": "https://db.irowiki.org/image/monster/1500.png",
+    "mvp": false
+  },
+  "1502": {
+    "name": "Pori Pori",
+    "icon": "https://db.irowiki.org/image/monster/1502.png",
+    "mvp": true
+  },
+  "1503": {
+    "name": "Gibbet",
+    "icon": "https://db.irowiki.org/image/monster/1503.png",
+    "mvp": false
+  },
+  "1504": {
+    "name": "Dark Lord",
+    "icon": "https://db.irowiki.org/image/monster/1504.png",
+    "mvp": false
+  },
+  "1505": {
+    "name": "Loli Ruri",
+    "icon": "https://db.irowiki.org/image/monster/1505.png",
+    "mvp": false
+  },
+  "1506": {
+    "name": "Disguise",
+    "icon": "https://db.irowiki.org/image/monster/1506.png",
+    "mvp": false
+  },
+  "1507": {
+    "name": "Bloody Murderer",
+    "icon": "https://db.irowiki.org/image/monster/1507.png",
+    "mvp": false
+  },
+  "1508": {
+    "name": "Quve",
+    "icon": "https://db.irowiki.org/image/monster/1508.png",
+    "mvp": false
+  },
+  "1509": {
+    "name": "Lude",
+    "icon": "https://db.irowiki.org/image/monster/1509.png",
+    "mvp": false
+  },
+  "1510": {
+    "name": "Heirozoist",
+    "icon": "https://db.irowiki.org/image/monster/1510.png",
+    "mvp": false
+  },
+  "1511": {
+    "name": "Amon Ra#ATM28",
+    "mvp": true,
+    "icon": "https://db.irowiki.org/image/monster/1511.png"
+  },
+  "1512": {
+    "name": "Hyegun",
+    "icon": "https://db.irowiki.org/image/monster/1512.png",
+    "mvp": false
+  },
+  "1513": {
+    "name": "Mao Guai",
+    "icon": "https://db.irowiki.org/image/monster/1513.png",
+    "mvp": false
+  },
+  "1514": {
+    "name": "Dancing Dragon",
+    "icon": "https://db.irowiki.org/image/monster/1514.png",
+    "mvp": false
+  },
+  "1515": {
+    "name": "Garm Baby",
+    "icon": "https://db.irowiki.org/image/monster/1515.png",
+    "mvp": false
+  },
+  "1516": {
+    "name": "Mi Gao",
+    "icon": "https://db.irowiki.org/image/monster/1516.png",
+    "mvp": false
+  },
+  "1517": {
+    "name": "Jing Guai",
+    "icon": "https://db.irowiki.org/image/monster/1517.png",
+    "mvp": false
+  },
+  "1518": {
+    "name": "Bacsojin",
+    "icon": "https://db.irowiki.org/image/monster/1518.png"
+  },
+  "1519": {
+    "name": "Chung E",
+    "icon": "https://db.irowiki.org/image/monster/1519.png"
+  },
+  "1520": {
+    "name": "Boiled Rice",
+    "icon": "https://db.irowiki.org/image/monster/1520.png"
+  },
+  "1522": {
+    "name": "Ancient Mummy Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1522.png",
+    "mvp": false
+  },
+  "1531": {
+    "name": "Taoist Hermit Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1531.png",
+    "mvp": false
+  },
+  "1555": {
+    "name": "Parasite Summon",
+    "icon": "https://db.irowiki.org/image/monster/1555.png",
+    "mvp": false
+  },
+  "1558": {
+    "name": "Sandman Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1558.png",
+    "mvp": false
+  },
+  "1560": {
+    "name": "Shinobi Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1560.png",
+    "mvp": false
+  },
+  "1564": {
+    "name": "Evil Nymph Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1564.png",
+    "mvp": false
+  },
+  "1566": {
+    "name": "Wraith Dead Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1566.png",
+    "mvp": false
+  },
+  "1575": {
+    "name": "Flora Summon",
+    "icon": "https://db.irowiki.org/image/monster/1575.png",
+    "mvp": false
+  },
+  "1579": {
+    "name": "Hydra Summon",
+    "icon": "https://db.irowiki.org/image/monster/1579.png",
+    "mvp": false
+  },
+  "1580": {
+    "name": "Incubus#ATM32",
+    "icon": "https://db.irowiki.org/image/monster/1580.png"
+  },
+  "1582": {
+    "name": "Deviling",
+    "icon": "https://db.irowiki.org/image/monster/1582.png",
+    "mvp": false
+  },
+  "1583": {
+    "name": "Doppelganger",
+    "mvp": true,
+    "icon": "https://db.irowiki.org/image/monster/1583.png"
+  },
+  "1584": {
+    "name": "Tamruan",
+    "icon": "https://db.irowiki.org/image/monster/1584.png",
+    "mvp": false
+  },
+  "1585": {
+    "name": "Mime Monkey",
+    "icon": "https://db.irowiki.org/image/monster/1585.png",
+    "mvp": false
+  },
+  "1586": {
+    "name": "Leaf Cat",
+    "icon": "https://db.irowiki.org/image/monster/1586.png",
+    "mvp": false
+  },
+  "1587": {
+    "name": "Kraben",
+    "icon": "https://db.irowiki.org/image/monster/1587.png",
+    "mvp": false
+  },
+  "1589": {
+    "name": "Mandragora Summon",
+    "icon": "https://db.irowiki.org/image/monster/1589.png",
+    "mvp": false
+  },
+  "1590": {
+    "name": "Geographer Summon",
+    "icon": "https://db.irowiki.org/image/monster/1590.png",
+    "mvp": false
+  },
+  "1592": {
+    "name": "Gangster",
+    "icon": "https://db.irowiki.org/image/monster/1592.png",
+    "mvp": false
+  },
+  "1594": {
+    "name": "Freezer Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1594.png",
+    "mvp": false
+  },
+  "1595": {
+    "name": "Marin",
+    "icon": "https://db.irowiki.org/image/monster/1595.png",
+    "mvp": false
+  },
+  "1599": {
+    "name": "Giant Whisper",
+    "icon": "https://db.irowiki.org/image/monster/1599.png",
+    "mvp": false
+  },
+  "1600": {
+    "name": "Heater Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1600.png",
+    "mvp": false
+  },
+  "1601": {
+    "name": "Permeter Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1601.png",
+    "mvp": false
+  },
+  "1602": {
+    "name": "Solider Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1602.png",
+    "mvp": false
+  },
+  "1603": {
+    "name": "Bigfoot Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1603.png",
+    "mvp": false
+  },
+  "1604": {
+    "name": "Giant Hornet Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1604.png",
+    "mvp": false
+  },
+  "1605": {
+    "name": "Dark Illusion",
+    "icon": "https://db.irowiki.org/image/monster/1605.png",
+    "mvp": false
+  },
+  "1606": {
+    "name": "Baby Hatii Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1606.png",
+    "mvp": false
+  },
+  "1607": {
+    "name": "Santa Goblin Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1607.png",
+    "mvp": false
+  },
+  "1608": {
+    "name": "Male Thief Bug Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1608.png",
+    "mvp": false
+  },
+  "1613": {
+    "name": "Metaling",
+    "icon": "https://db.irowiki.org/image/monster/1613.png",
+    "mvp": false
+  },
+  "1614": {
+    "name": "Mineral",
+    "icon": "https://db.irowiki.org/image/monster/1614.png",
+    "mvp": false
+  },
+  "1615": {
+    "name": "Obsidian",
+    "icon": "https://db.irowiki.org/image/monster/1615.png",
+    "mvp": false
+  },
+  "1616": {
+    "name": "Pitman",
+    "icon": "https://db.irowiki.org/image/monster/1616.png",
+    "mvp": false
+  },
+  "1617": {
+    "name": "Waste Stove",
+    "icon": "https://db.irowiki.org/image/monster/1617.png",
+    "mvp": false
+  },
+  "1618": {
+    "name": "Ungoliant",
+    "icon": "https://db.irowiki.org/image/monster/1618.png",
+    "mvp": false
+  },
+  "1619": {
+    "name": "Porcellio",
+    "icon": "https://db.irowiki.org/image/monster/1619.png",
+    "mvp": false
+  },
+  "1620": {
+    "name": "Noxious",
+    "icon": "https://db.irowiki.org/image/monster/1620.png",
+    "mvp": false
+  },
+  "1621": {
+    "name": "Venomous",
+    "icon": "https://db.irowiki.org/image/monster/1621.png",
+    "mvp": false
+  },
+  "1622": {
+    "name": "Kuma#ATM6",
+    "icon": "https://db.irowiki.org/image/monster/1622.png",
+    "mvp": false
+  },
+  "1623": {
+    "name": "RSX-006",
+    "icon": "https://db.irowiki.org/image/monster/1623.png",
+    "mvp": true
+  },
+  "1624": {
+    "name": "Old Stove",
+    "icon": "https://db.irowiki.org/image/monster/1624.png",
+    "mvp": false
+  },
+  "1625": {
+    "name": "Porcellio Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1625.png",
+    "mvp": false
+  },
+  "1626": {
+    "name": "Hellion Revenant",
+    "icon": "https://db.irowiki.org/image/monster/1626.png",
+    "mvp": false
+  },
+  "1627": {
+    "name": "Watcher's Son",
+    "icon": "https://db.irowiki.org/image/monster/1627.png",
+    "mvp": false
+  },
+  "1628": {
+    "name": "Mole",
+    "icon": "https://db.irowiki.org/image/monster/1628.png",
+    "mvp": false
+  },
+  "1629": {
+    "name": "Hill Wind#ATM16",
+    "icon": "https://db.irowiki.org/image/monster/1629.png",
+    "mvp": false
+  },
+  "1630": {
+    "name": "White Lady",
+    "icon": "https://db.irowiki.org/image/monster/1630.png",
+    "mvp": true
+  },
+  "1631": {
+    "name": "Green Maiden#ATM25",
+    "icon": "https://db.irowiki.org/image/monster/1631.png",
+    "mvp": false
+  },
+  "1632": {
+    "name": "Gremlin",
+    "icon": "https://db.irowiki.org/image/monster/1632.png",
+    "mvp": false
+  },
+  "1633": {
+    "name": "Beholder",
+    "icon": "https://db.irowiki.org/image/monster/1633.png",
+    "mvp": false
+  },
+  "1634": {
+    "name": "Seyren Windsor",
+    "icon": "https://db.irowiki.org/image/monster/1634.png",
+    "mvp": false
+  },
+  "1635": {
+    "name": "Eremes Guile",
+    "icon": "https://db.irowiki.org/image/monster/1635.png",
+    "mvp": false
+  },
+  "1636": {
+    "name": "Howard Alt-Eisen",
+    "icon": "https://db.irowiki.org/image/monster/1636.png",
+    "mvp": false
+  },
+  "1637": {
+    "name": "Margaretha Sorin",
+    "icon": "https://db.irowiki.org/image/monster/1637.png",
+    "mvp": false
+  },
+  "1638": {
+    "name": "Cecil Damon",
+    "icon": "https://db.irowiki.org/image/monster/1638.png",
+    "mvp": false
+  },
+  "1639": {
+    "name": "Kathryne Keyron",
+    "icon": "https://db.irowiki.org/image/monster/1639.png",
+    "mvp": false
+  },
+  "1640": {
+    "name": "Lord Knight Seyren",
+    "icon": "https://db.irowiki.org/image/monster/1640.png",
+    "mvp": false
+  },
+  "1641": {
+    "name": "Loki's Adherent",
+    "icon": "https://db.irowiki.org/image/monster/1641.png",
+    "mvp": false
+  },
+  "1642": {
+    "name": "Whitesmith Howard",
+    "icon": "https://db.irowiki.org/image/monster/1642.png",
+    "mvp": false
+  },
+  "1643": {
+    "name": "High Priest Margaretha",
+    "icon": "https://db.irowiki.org/image/monster/1643.png",
+    "mvp": false
+  },
+  "1644": {
+    "name": "Skadi's Recruit",
+    "icon": "https://db.irowiki.org/image/monster/1644.png",
+    "mvp": false
+  },
+  "1645": {
+    "name": "High Wizard Kathryne",
+    "icon": "https://db.irowiki.org/image/monster/1645.png",
+    "mvp": false
+  },
+  "1646": {
+    "name": "Lord Knight Seyren",
+    "icon": "https://db.irowiki.org/image/monster/1646.png",
+    "mvp": true
+  },
+  "1647": {
+    "name": "Assassin Cross Eremes",
+    "icon": "https://db.irowiki.org/image/monster/1647.png",
+    "mvp": true
+  },
+  "1648": {
+    "name": "Master Smith Howard Mvp",
+    "icon": "https://db.irowiki.org/image/monster/1648.png",
+    "mvp": true
+  },
+  "1649": {
+    "name": "High Priest Margaretha Mvp",
+    "icon": "https://db.irowiki.org/image/monster/1649.png",
+    "mvp": true
+  },
+  "1650": {
+    "name": "Sniper Cecil Mvp",
+    "icon": "https://db.irowiki.org/image/monster/1650.png",
+    "mvp": true
+  },
+  "1651": {
+    "name": "High Wizard Kathryne",
+    "icon": "https://db.irowiki.org/image/monster/1651.png",
+    "mvp": true
+  },
+  "1652": {
+    "name": "Egnigem Cenia",
+    "icon": "https://db.irowiki.org/image/monster/1652.png",
+    "mvp": false
+  },
+  "1653": {
+    "name": "Wickebine Tres",
+    "icon": "https://db.irowiki.org/image/monster/1653.png",
+    "mvp": false
+  },
+  "1654": {
+    "name": "Armeyer Dinze",
+    "icon": "https://db.irowiki.org/image/monster/1654.png",
+    "mvp": false
+  },
+  "1655": {
+    "name": "Errende Ebecee",
+    "icon": "https://db.irowiki.org/image/monster/1655.png",
+    "mvp": false
+  },
+  "1656": {
+    "name": "Kavac",
+    "icon": "https://db.irowiki.org/image/monster/1656.png",
+    "mvp": false
+  },
+  "1657": {
+    "name": "Laurell Weinder",
+    "icon": "https://db.irowiki.org/image/monster/1657.png",
+    "mvp": false
+  },
+  "1658": {
+    "name": "Egnigem Cenia Mvp",
+    "icon": "https://db.irowiki.org/image/monster/1658.png",
+    "mvp": true
+  },
+  "1659": {
+    "name": "Wickebine Tres Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1659.png",
+    "mvp": false
+  },
+  "1660": {
+    "name": "Armeyer Dinze Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1660.png",
+    "mvp": false
+  },
+  "1661": {
+    "name": "Errende Ebecee Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1661.png",
+    "mvp": false
+  },
+  "1662": {
+    "name": "Kavach Icarus Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1662.png",
+    "mvp": false
+  },
+  "1663": {
+    "name": "Laurell Weinder Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1663.png",
+    "mvp": false
+  },
+  "1664": {
+    "name": "Photon Cannon",
+    "icon": "https://db.irowiki.org/image/monster/1664.png",
+    "mvp": false
+  },
+  "1665": {
+    "name": "Photon Cannon",
+    "icon": "https://db.irowiki.org/image/monster/1665.png",
+    "mvp": false
+  },
+  "1666": {
+    "name": "Photon Cannon",
+    "icon": "https://db.irowiki.org/image/monster/1666.png",
+    "mvp": false
+  },
+  "1667": {
+    "name": "Photon Cannon",
+    "icon": "https://db.irowiki.org/image/monster/1667.png",
+    "mvp": false
+  },
+  "1668": {
+    "name": "Archdam",
+    "icon": "https://db.irowiki.org/image/monster/1668.png",
+    "mvp": false
+  },
+  "1669": {
+    "name": "Dimik",
+    "icon": "https://db.irowiki.org/image/monster/1669.png",
+    "mvp": false
+  },
+  "1670": {
+    "name": "Dimik Green",
+    "icon": "https://db.irowiki.org/image/monster/1670.png",
+    "mvp": false
+  },
+  "1671": {
+    "name": "Dimik Blue",
+    "icon": "https://db.irowiki.org/image/monster/1671.png",
+    "mvp": false
+  },
+  "1672": {
+    "name": "Dimik Orange",
+    "icon": "https://db.irowiki.org/image/monster/1672.png",
+    "mvp": false
+  },
+  "1673": {
+    "name": "Dimik Red",
+    "icon": "https://db.irowiki.org/image/monster/1673.png",
+    "mvp": false
+  },
+  "1674": {
+    "name": "Monemus",
+    "icon": "https://db.irowiki.org/image/monster/1674.png",
+    "mvp": false
+  },
+  "1675": {
+    "name": "Venatu",
+    "icon": "https://db.irowiki.org/image/monster/1675.png",
+    "mvp": false
+  },
+  "1676": {
+    "name": "Venatu Purple",
+    "icon": "https://db.irowiki.org/image/monster/1676.png",
+    "mvp": false
+  },
+  "1677": {
+    "name": "Venatu Green",
+    "icon": "https://db.irowiki.org/image/monster/1677.png",
+    "mvp": false
+  },
+  "1678": {
+    "name": "Venatu Orange",
+    "icon": "https://db.irowiki.org/image/monster/1678.png",
+    "mvp": false
+  },
+  "1679": {
+    "name": "Venatu Blue",
+    "icon": "https://db.irowiki.org/image/monster/1679.png",
+    "mvp": false
+  },
+  "1680": {
+    "name": "Hill Wind",
+    "icon": "https://db.irowiki.org/image/monster/1680.png",
+    "mvp": false
+  },
+  "1681": {
+    "name": "Gemini-S58",
+    "icon": "https://db.irowiki.org/image/monster/1681.png",
+    "mvp": false
+  },
+  "1682": {
+    "name": "Remover",
+    "icon": "https://db.irowiki.org/image/monster/1682.png",
+    "mvp": false
+  },
+  "1685": {
+    "name": "Vesper",
+    "icon": "https://db.irowiki.org/image/monster/1685.png",
+    "mvp": true
+  },
+  "1686": {
+    "name": "Orc Baby",
+    "icon": "https://db.irowiki.org/image/monster/1686.png",
+    "mvp": false
+  },
+  "1687": {
+    "name": "Grove",
+    "icon": "https://db.irowiki.org/image/monster/1687.png",
+    "mvp": false
+  },
+  "1688": {
+    "name": "Lady Tanee",
+    "icon": "https://db.irowiki.org/image/monster/1688.png",
+    "mvp": true
+  },
+  "1691": {
+    "name": "Kraben",
+    "icon": "https://db.irowiki.org/image/monster/1691.png",
+    "mvp": false
+  },
+  "1692": {
+    "name": "Breeze",
+    "icon": "https://db.irowiki.org/image/monster/1692.png",
+    "mvp": false
+  },
+  "1693": {
+    "name": "Plasma",
+    "icon": "https://db.irowiki.org/image/monster/1693.png",
+    "mvp": false
+  },
+  "1694": {
+    "name": "Plasma Red",
+    "icon": "https://db.irowiki.org/image/monster/1694.png",
+    "mvp": false
+  },
+  "1695": {
+    "name": "Plasma Green",
+    "icon": "https://db.irowiki.org/image/monster/1695.png",
+    "mvp": false
+  },
+  "1696": {
+    "name": "Plasma",
+    "icon": "https://db.irowiki.org/image/monster/1696.png",
+    "mvp": false
+  },
+  "1697": {
+    "name": "Plasma",
+    "icon": "https://db.irowiki.org/image/monster/1697.png",
+    "mvp": false
+  },
+  "1698": {
+    "name": "Valhalla Spectre",
+    "icon": "https://db.irowiki.org/image/monster/1698.png",
+    "mvp": false
+  },
+  "1699": {
+    "name": "Ancient Mimic",
+    "icon": "https://db.irowiki.org/image/monster/1699.png",
+    "mvp": false
+  },
+  "1700": {
+    "name": "Valhalla Sentinel",
+    "icon": "https://db.irowiki.org/image/monster/1700.png",
+    "mvp": false
+  },
+  "1701": {
+    "name": "Valhalla Redeemer",
+    "icon": "https://db.irowiki.org/image/monster/1701.png",
+    "mvp": false
+  },
+  "1702": {
+    "name": "Baroness of Retribution",
+    "icon": "https://db.irowiki.org/image/monster/1702.png",
+    "mvp": false
+  },
+  "1703": {
+    "name": "Lady Solace",
+    "icon": "https://db.irowiki.org/image/monster/1703.png",
+    "mvp": false
+  },
+  "1704": {
+    "name": "Odium of Thanatos",
+    "icon": "https://db.irowiki.org/image/monster/1704.png",
+    "mvp": false
+  },
+  "1705": {
+    "name": "Despero of Thanatos",
+    "icon": "https://db.irowiki.org/image/monster/1705.png",
+    "mvp": false
+  },
+  "1706": {
+    "name": "Maero of Thanatos",
+    "icon": "https://db.irowiki.org/image/monster/1706.png",
+    "mvp": false
+  },
+  "1707": {
+    "name": "Dolor of Thanatos",
+    "icon": "https://db.irowiki.org/image/monster/1707.png",
+    "mvp": false
+  },
+  "1708": {
+    "name": "Thanatos Phantom",
+    "icon": "https://db.irowiki.org/image/monster/1708.png",
+    "mvp": true
+  },
+  "1709": {
+    "name": "Odium of Thanatos",
+    "icon": "https://db.irowiki.org/image/monster/1709.png",
+    "mvp": false
+  },
+  "1710": {
+    "name": "Despero of Thanatos",
+    "icon": "https://db.irowiki.org/image/monster/1710.png",
+    "mvp": false
+  },
+  "1711": {
+    "name": "Maero of Thanatos",
+    "icon": "https://db.irowiki.org/image/monster/1711.png",
+    "mvp": false
+  },
+  "1712": {
+    "name": "Dolor of Thanatos",
+    "icon": "https://db.irowiki.org/image/monster/1712.png",
+    "mvp": false
+  },
+  "1713": {
+    "name": "Acidus Gold",
+    "icon": "https://db.irowiki.org/image/monster/1713.png",
+    "mvp": false
+  },
+  "1714": {
+    "name": "Ferus Red",
+    "icon": "https://db.irowiki.org/image/monster/1714.png",
+    "mvp": false
+  },
+  "1715": {
+    "name": "Novus",
+    "icon": "https://db.irowiki.org/image/monster/1715.png",
+    "mvp": false
+  },
+  "1716": {
+    "name": "Novus",
+    "icon": "https://db.irowiki.org/image/monster/1716.png",
+    "mvp": false
+  },
+  "1717": {
+    "name": "Ferus Green",
+    "icon": "https://db.irowiki.org/image/monster/1717.png",
+    "mvp": false
+  },
+  "1718": {
+    "name": "Novus Yellow",
+    "icon": "https://db.irowiki.org/image/monster/1718.png",
+    "mvp": false
+  },
+  "1719": {
+    "name": "Detale",
+    "icon": "https://db.irowiki.org/image/monster/1719.png",
+    "mvp": true
+  },
+  "1720": {
+    "name": "Hydro",
+    "icon": "https://db.irowiki.org/image/monster/1720.png",
+    "mvp": false
+  },
+  "1721": {
+    "name": "Dragon Egg",
+    "icon": "https://db.irowiki.org/image/monster/1721.png",
+    "mvp": false
+  },
+  "1733": {
+    "name": "Kiel",
+    "icon": "https://db.irowiki.org/image/monster/1733.png",
+    "mvp": false
+  },
+  "1734": {
+    "name": "Kiel D-01",
+    "icon": "https://db.irowiki.org/image/monster/1734.png",
+    "mvp": true
+  },
+  "1735": {
+    "name": "Alicel",
+    "icon": "https://db.irowiki.org/image/monster/1735.png",
+    "mvp": false
+  },
+  "1736": {
+    "name": "Kill Me",
+    "icon": "https://db.irowiki.org/image/monster/1736.png",
+    "mvp": false
+  },
+  "1737": {
+    "name": "Aliza",
+    "icon": "https://db.irowiki.org/image/monster/1737.png",
+    "mvp": false
+  },
+  "1738": {
+    "name": "Constant",
+    "icon": "https://db.irowiki.org/image/monster/1738.png",
+    "mvp": false
+  },
+  "1739": {
+    "name": "Alicel",
+    "icon": "https://db.irowiki.org/image/monster/1739.png",
+    "mvp": false
+  },
+  "1740": {
+    "name": "Aliot",
+    "icon": "https://db.irowiki.org/image/monster/1740.png",
+    "mvp": false
+  },
+  "1741": {
+    "name": "Cookie Red Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1741.png",
+    "mvp": false
+  },
+  "1742": {
+    "name": "Carat",
+    "icon": "https://db.irowiki.org/image/monster/1742.png",
+    "mvp": false
+  },
+  "1743": {
+    "name": "Myst Case",
+    "icon": "https://db.irowiki.org/image/monster/1743.png",
+    "mvp": false
+  },
+  "1744": {
+    "name": "Wild Rose",
+    "icon": "https://db.irowiki.org/image/monster/1744.png",
+    "mvp": false
+  },
+  "1745": {
+    "name": "Constant Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1745.png",
+    "mvp": false
+  },
+  "1746": {
+    "name": "Aliza Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1746.png",
+    "mvp": false
+  },
+  "1751": {
+    "name": "Valkyrie Randgris",
+    "mvp": true,
+    "icon": "https://db.irowiki.org/image/monster/1751.png"
+  },
+  "1752": {
+    "name": "Skogul",
+    "icon": "https://db.irowiki.org/image/monster/1752.png",
+    "mvp": false
+  },
+  "1753": {
+    "name": "Frus",
+    "icon": "https://db.irowiki.org/image/monster/1753.png",
+    "mvp": false
+  },
+  "1754": {
+    "name": "Skeggiold",
+    "icon": "https://db.irowiki.org/image/monster/1754.png",
+    "mvp": false
+  },
+  "1755": {
+    "name": "Skeggiold",
+    "icon": "https://db.irowiki.org/image/monster/1755.png",
+    "mvp": false
+  },
+  "1756": {
+    "name": "Hydrolancer",
+    "icon": "https://db.irowiki.org/image/monster/1756.png",
+    "mvp": false
+  },
+  "1757": {
+    "name": "Acidus",
+    "icon": "https://db.irowiki.org/image/monster/1757.png",
+    "mvp": false
+  },
+  "1758": {
+    "name": "Ferus",
+    "icon": "https://db.irowiki.org/image/monster/1758.png",
+    "mvp": false
+  },
+  "1759": {
+    "name": "Acidus",
+    "icon": "https://db.irowiki.org/image/monster/1759.png",
+    "mvp": false
+  },
+  "1760": {
+    "name": "Ferus",
+    "icon": "https://db.irowiki.org/image/monster/1760.png",
+    "mvp": false
+  },
+  "1761": {
+    "name": "Skogul",
+    "icon": "https://db.irowiki.org/image/monster/1761.png",
+    "mvp": false
+  },
+  "1762": {
+    "name": "Frus Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1762.png",
+    "mvp": false
+  },
+  "1763": {
+    "name": "Skeggiold",
+    "icon": "https://db.irowiki.org/image/monster/1763.png",
+    "mvp": false
+  },
+  "1764": {
+    "name": "Skeggiold",
+    "icon": "https://db.irowiki.org/image/monster/1764.png",
+    "mvp": false
+  },
+  "1765": {
+    "name": "Valkyrie",
+    "icon": "https://db.irowiki.org/image/monster/1765.png",
+    "mvp": false
+  },
+  "1768": {
+    "name": "Gloom Under Night",
+    "icon": "https://db.irowiki.org/image/monster/1768.png",
+    "mvp": true
+  },
+  "1769": {
+    "name": "Agav",
+    "icon": "https://db.irowiki.org/image/monster/1769.png",
+    "mvp": false
+  },
+  "1770": {
+    "name": "Echio",
+    "icon": "https://db.irowiki.org/image/monster/1770.png",
+    "mvp": false
+  },
+  "1771": {
+    "name": "Vanberk",
+    "icon": "https://db.irowiki.org/image/monster/1771.png",
+    "mvp": false
+  },
+  "1772": {
+    "name": "Isilla",
+    "icon": "https://db.irowiki.org/image/monster/1772.png",
+    "mvp": false
+  },
+  "1773": {
+    "name": "Hodremlin",
+    "icon": "https://db.irowiki.org/image/monster/1773.png",
+    "mvp": false
+  },
+  "1774": {
+    "name": "Seeker",
+    "icon": "https://db.irowiki.org/image/monster/1774.png",
+    "mvp": false
+  },
+  "1775": {
+    "name": "Snowier",
+    "icon": "https://db.irowiki.org/image/monster/1775.png",
+    "mvp": false
+  },
+  "1776": {
+    "name": "Siroma",
+    "icon": "https://db.irowiki.org/image/monster/1776.png",
+    "mvp": false
+  },
+  "1777": {
+    "name": "Ice Titan",
+    "icon": "https://db.irowiki.org/image/monster/1777.png",
+    "mvp": false
+  },
+  "1778": {
+    "name": "Gazeti",
+    "icon": "https://db.irowiki.org/image/monster/1778.png",
+    "mvp": false
+  },
+  "1779": {
+    "name": "Ktullanux",
+    "icon": "https://db.irowiki.org/image/monster/1779.png",
+    "mvp": true
+  },
+  "1780": {
+    "name": "Muscipular",
+    "icon": "https://db.irowiki.org/image/monster/1780.png",
+    "mvp": false
+  },
+  "1781": {
+    "name": "Drosera",
+    "icon": "https://db.irowiki.org/image/monster/1781.png",
+    "mvp": false
+  },
+  "1782": {
+    "name": "Roween",
+    "icon": "https://db.irowiki.org/image/monster/1782.png",
+    "mvp": false
+  },
+  "1783": {
+    "name": "Galion",
+    "icon": "https://db.irowiki.org/image/monster/1783.png",
+    "mvp": false
+  },
+  "1784": {
+    "name": "Stapo",
+    "icon": "https://db.irowiki.org/image/monster/1784.png",
+    "mvp": false
+  },
+  "1785": {
+    "name": "Atroce",
+    "icon": "https://db.irowiki.org/image/monster/1785.png",
+    "mvp": true
+  },
+  "1786": {
+    "name": "Agav",
+    "icon": "https://db.irowiki.org/image/monster/1786.png",
+    "mvp": false
+  },
+  "1787": {
+    "name": "Echio",
+    "icon": "https://db.irowiki.org/image/monster/1787.png",
+    "mvp": false
+  },
+  "1788": {
+    "name": "Ice Titan",
+    "icon": "https://db.irowiki.org/image/monster/1788.png",
+    "mvp": false
+  },
+  "1789": {
+    "name": "Iceicle",
+    "icon": "https://db.irowiki.org/image/monster/1789.png",
+    "mvp": false
+  },
+  "1791": {
+    "name": "Galion",
+    "icon": "https://db.irowiki.org/image/monster/1791.png",
+    "mvp": false
+  },
+  "1793": {
+    "name": "Megalith Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1793.png",
+    "mvp": false
+  },
+  "1794": {
+    "name": "Roween Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1794.png",
+    "mvp": false
+  },
+  "1796": {
+    "name": "Aunoe",
+    "icon": "https://db.irowiki.org/image/monster/1796.png",
+    "mvp": false
+  },
+  "1797": {
+    "name": "Fanat",
+    "icon": "https://db.irowiki.org/image/monster/1797.png",
+    "mvp": false
+  },
+  "1829": {
+    "name": "Sword Master",
+    "icon": "https://db.irowiki.org/image/monster/1829.png",
+    "mvp": false
+  },
+  "1830": {
+    "name": "Bow Master",
+    "icon": "https://db.irowiki.org/image/monster/1830.png",
+    "mvp": false
+  },
+  "1831": {
+    "name": "Salamander",
+    "icon": "https://db.irowiki.org/image/monster/1831.png",
+    "mvp": false
+  },
+  "1832": {
+    "name": "Ifrit",
+    "mvp": true,
+    "icon": "https://db.irowiki.org/image/monster/1832.png"
+  },
+  "1833": {
+    "name": "Kasa",
+    "icon": "https://db.irowiki.org/image/monster/1833.png",
+    "mvp": false
+  },
+  "1834": {
+    "name": "Salamander",
+    "icon": "https://db.irowiki.org/image/monster/1834.png",
+    "mvp": false
+  },
+  "1835": {
+    "name": "Kasa",
+    "icon": "https://db.irowiki.org/image/monster/1835.png",
+    "mvp": false
+  },
+  "1836": {
+    "name": "Magmaring",
+    "icon": "https://db.irowiki.org/image/monster/1836.png",
+    "mvp": false
+  },
+  "1837": {
+    "name": "Imp",
+    "icon": "https://db.irowiki.org/image/monster/1837.png",
+    "mvp": false
+  },
+  "1838": {
+    "name": "Knocker",
+    "icon": "https://db.irowiki.org/image/monster/1838.png",
+    "mvp": false
+  },
+  "1839": {
+    "name": "Byorgue",
+    "icon": "https://db.irowiki.org/image/monster/1839.png",
+    "mvp": false
+  },
+  "1840": {
+    "name": "Golden Savage",
+    "icon": "https://db.irowiki.org/image/monster/1840.png"
+  },
+  "1851": {
+    "name": "Mobster Ghost",
+    "icon": "https://db.irowiki.org/image/monster/1851.png",
+    "mvp": false
+  },
+  "1864": {
+    "name": "Zombie Slaughter",
+    "icon": "https://db.irowiki.org/image/monster/1864.png",
+    "mvp": false
+  },
+  "1865": {
+    "name": "Ragged Zombie",
+    "icon": "https://db.irowiki.org/image/monster/1865.png",
+    "mvp": false
+  },
+  "1866": {
+    "name": "Hell Poodle",
+    "icon": "https://db.irowiki.org/image/monster/1866.png",
+    "mvp": false
+  },
+  "1867": {
+    "name": "Banshee",
+    "icon": "https://db.irowiki.org/image/monster/1867.png",
+    "mvp": false
+  },
+  "1868": {
+    "name": "Banshee",
+    "icon": "https://db.irowiki.org/image/monster/1868.png",
+    "mvp": false
+  },
+  "1869": {
+    "name": "Flame Skull",
+    "icon": "https://db.irowiki.org/image/monster/1869.png",
+    "mvp": false
+  },
+  "1870": {
+    "name": "Necromancer",
+    "icon": "https://db.irowiki.org/image/monster/1870.png",
+    "mvp": false
+  },
+  "1871": {
+    "name": "Fallen Bishop",
+    "icon": "https://db.irowiki.org/image/monster/1871.png",
+    "mvp": true
+  },
+  "1872": {
+    "name": "Hell Fly",
+    "icon": "https://db.irowiki.org/image/monster/1872.png",
+    "mvp": false
+  },
+  "1873": {
+    "name": "Beelzebub",
+    "icon": "https://db.irowiki.org/image/monster/1873.png",
+    "mvp": true
+  },
+  "1874": {
+    "name": "Beelzebub",
+    "mvp": true,
+    "icon": "https://db.irowiki.org/image/monster/1874.png"
+  },
+  "1875": {
+    "name": "Tristan Iii",
+    "icon": "https://db.irowiki.org/image/monster/1875.png",
+    "mvp": false
+  },
+  "1880": {
+    "name": "Wood Goblin",
+    "icon": "https://db.irowiki.org/image/monster/1880.png",
+    "mvp": false
+  },
+  "1881": {
+    "name": "Les",
+    "icon": "https://db.irowiki.org/image/monster/1881.png",
+    "mvp": false
+  },
+  "1882": {
+    "name": "Babayaga",
+    "icon": "https://db.irowiki.org/image/monster/1882.png",
+    "mvp": false
+  },
+  "1883": {
+    "name": "Uzhas",
+    "icon": "https://db.irowiki.org/image/monster/1883.png",
+    "mvp": false
+  },
+  "1884": {
+    "name": "Mavka",
+    "icon": "https://db.irowiki.org/image/monster/1884.png",
+    "mvp": false
+  },
+  "1885": {
+    "name": "Gopinich",
+    "icon": "https://db.irowiki.org/image/monster/1885.png",
+    "mvp": true
+  },
+  "1886": {
+    "name": "Mavka",
+    "icon": "https://db.irowiki.org/image/monster/1886.png",
+    "mvp": false
+  },
+  "1891": {
+    "name": "Valkyrie",
+    "icon": "https://db.irowiki.org/image/monster/1891.png",
+    "mvp": false
+  },
+  "1892": {
+    "name": "Lolo Ruri#ATM37",
+    "icon": "https://db.irowiki.org/image/monster/1892.png"
+  },
+  "1894": {
+    "name": "Pouring",
+    "icon": "https://db.irowiki.org/image/monster/1894.png"
+  },
+  "1899": {
+    "name": "Sword Guardian Wo E",
+    "icon": "https://db.irowiki.org/image/monster/1899.png",
+    "mvp": false
+  },
+  "1905": {
+    "name": "Barricade",
+    "icon": "https://db.irowiki.org/image/monster/1905.png",
+    "mvp": false
+  },
+  "1907": {
+    "name": "Guardian Stone First",
+    "icon": "https://db.irowiki.org/image/monster/1907.png",
+    "mvp": false
+  },
+  "1908": {
+    "name": "Guardian Stone Second",
+    "icon": "https://db.irowiki.org/image/monster/1908.png",
+    "mvp": false
+  },
+  "1916": {
+    "name": "Wounded Morroc",
+    "icon": "https://db.irowiki.org/image/monster/1916.png",
+    "mvp": false
+  },
+  "1917": {
+    "name": "Wounded Morocc",
+    "icon": "https://db.irowiki.org/image/monster/1917.png",
+    "mvp": true
+  },
+  "1918": {
+    "name": "Incarnation of Morroc",
+    "icon": "https://db.irowiki.org/image/monster/1918.png",
+    "mvp": false
+  },
+  "1919": {
+    "name": "Incarnation of Morroc",
+    "icon": "https://db.irowiki.org/image/monster/1919.png",
+    "mvp": false
+  },
+  "1920": {
+    "name": "Incarnation of Morroc",
+    "icon": "https://db.irowiki.org/image/monster/1920.png",
+    "mvp": false
+  },
+  "1921": {
+    "name": "Incarnation of Morroc",
+    "icon": "https://db.irowiki.org/image/monster/1921.png",
+    "mvp": false
+  },
+  "1922": {
+    "name": "Shadow of Morroc",
+    "icon": "https://db.irowiki.org/image/monster/1922.png",
+    "mvp": false
+  },
+  "1923": {
+    "name": "Shadow of Morroc",
+    "icon": "https://db.irowiki.org/image/monster/1923.png",
+    "mvp": false
+  },
+  "1924": {
+    "name": "Shadow of Morroc",
+    "icon": "https://db.irowiki.org/image/monster/1924.png",
+    "mvp": false
+  },
+  "1925": {
+    "name": "Shadow of Morroc",
+    "icon": "https://db.irowiki.org/image/monster/1925.png",
+    "mvp": false
+  },
+  "1929": {
+    "name": "Unsealed Baphomet",
+    "icon": "https://db.irowiki.org/image/monster/1929.png",
+    "mvp": false
+  },
+  "1930": {
+    "name": "Piamette",
+    "icon": "https://db.irowiki.org/image/monster/1930.png"
+  },
+  "1931": {
+    "name": "Wish Maiden",
+    "icon": "https://db.irowiki.org/image/monster/1931.png"
+  },
+  "1933": {
+    "name": "Valhalla Sanctum",
+    "icon": "https://db.irowiki.org/image/monster/1933.png"
+  },
+  "1947": {
+    "name": "Piamette",
+    "icon": "https://db.irowiki.org/image/monster/1947.png"
+  },
+  "1956": {
+    "name": "Nacht Sieger",
+    "mvp": false,
+    "icon": "https://db.irowiki.org/image/monster/1956.png"
+  },
+  "1957": {
+    "name": "Entweihen Crothen",
+    "mvp": false,
+    "icon": "https://db.irowiki.org/image/monster/1957.png"
+  },
+  "1958": {
+    "name": "Thorny Skeleton",
+    "icon": "https://db.irowiki.org/image/monster/1958.png",
+    "mvp": false
+  },
+  "1959": {
+    "name": "Thorn of Recovery",
+    "icon": "https://db.irowiki.org/image/monster/1959.png",
+    "mvp": false
+  },
+  "1960": {
+    "name": "Thorn of Magic",
+    "icon": "https://db.irowiki.org/image/monster/1960.png",
+    "mvp": false
+  },
+  "1961": {
+    "name": "Thorn of Pureness",
+    "icon": "https://db.irowiki.org/image/monster/1961.png",
+    "mvp": false
+  },
+  "1974": {
+    "name": "Banshee Master",
+    "icon": "https://db.irowiki.org/image/monster/1974.png",
+    "mvp": false
+  },
+  "1975": {
+    "name": "Beholder Master",
+    "icon": "https://db.irowiki.org/image/monster/1975.png",
+    "mvp": false
+  },
+  "1976": {
+    "name": "Cobalt Mineral",
+    "icon": "https://db.irowiki.org/image/monster/1976.png",
+    "mvp": false
+  },
+  "1977": {
+    "name": "Heavy Metaling",
+    "icon": "https://db.irowiki.org/image/monster/1977.png",
+    "mvp": false
+  },
+  "1978": {
+    "name": "Hell Apocalips",
+    "icon": "https://db.irowiki.org/image/monster/1978.png",
+    "mvp": false
+  },
+  "1979": {
+    "name": "Zakudam",
+    "icon": "https://db.irowiki.org/image/monster/1979.png",
+    "mvp": false
+  },
+  "1980": {
+    "name": "Kublin",
+    "icon": "https://db.irowiki.org/image/monster/1980.png",
+    "mvp": true
+  },
+  "1981": {
+    "name": "Safeguard Chief",
+    "icon": "https://db.irowiki.org/image/monster/1981.png"
+  },
+  "1982": {
+    "name": "Orc Sniper",
+    "icon": "https://db.irowiki.org/image/monster/1982.png"
+  },
+  "1983": {
+    "name": "Depraved Orc Spirit",
+    "icon": "https://db.irowiki.org/image/monster/1983.png"
+  },
+  "1984": {
+    "name": "Shaman Cargalache",
+    "icon": "https://db.irowiki.org/image/monster/1984.png"
+  },
+  "1986": {
+    "name": "Tatacho",
+    "icon": "https://db.irowiki.org/image/monster/1986.png",
+    "mvp": false
+  },
+  "1987": {
+    "name": "Centipede",
+    "icon": "https://db.irowiki.org/image/monster/1987.png",
+    "mvp": false
+  },
+  "1988": {
+    "name": "Nepenthes",
+    "icon": "https://db.irowiki.org/image/monster/1988.png",
+    "mvp": false
+  },
+  "1989": {
+    "name": "Hillslion",
+    "icon": "https://db.irowiki.org/image/monster/1989.png",
+    "mvp": false
+  },
+  "1990": {
+    "name": "Hardrock Mammoth",
+    "icon": "https://db.irowiki.org/image/monster/1990.png",
+    "mvp": false
+  },
+  "1991": {
+    "name": "Tendril Lion",
+    "icon": "https://db.irowiki.org/image/monster/1991.png",
+    "mvp": false
+  },
+  "1992": {
+    "name": "Cornus",
+    "icon": "https://db.irowiki.org/image/monster/1992.png",
+    "mvp": false
+  },
+  "1993": {
+    "name": "Naga",
+    "icon": "https://db.irowiki.org/image/monster/1993.png",
+    "mvp": false
+  },
+  "1994": {
+    "name": "Luciola Vespa",
+    "icon": "https://db.irowiki.org/image/monster/1994.png",
+    "mvp": false
+  },
+  "1995": {
+    "name": "Pinguicula",
+    "icon": "https://db.irowiki.org/image/monster/1995.png",
+    "mvp": false
+  },
+  "1997": {
+    "name": "Tatacho",
+    "icon": "https://db.irowiki.org/image/monster/1997.png"
+  },
+  "1999": {
+    "name": "Centipede Larva",
+    "icon": "https://db.irowiki.org/image/monster/1999.png",
+    "mvp": false
+  },
+  "2013": {
+    "name": "Draco",
+    "icon": "https://db.irowiki.org/image/monster/2013.png",
+    "mvp": false
+  },
+  "2014": {
+    "name": "Draco Egg",
+    "icon": "https://db.irowiki.org/image/monster/2014.png",
+    "mvp": false
+  },
+  "2015": {
+    "name": "Dark Pinguicula",
+    "icon": "https://db.irowiki.org/image/monster/2015.png",
+    "mvp": false
+  },
+  "2016": {
+    "name": "Aqua Elemental",
+    "icon": "https://db.irowiki.org/image/monster/2016.png",
+    "mvp": false
+  },
+  "2017": {
+    "name": "Rata",
+    "icon": "https://db.irowiki.org/image/monster/2017.png",
+    "mvp": false
+  },
+  "2018": {
+    "name": "Duneyrr",
+    "icon": "https://db.irowiki.org/image/monster/2018.png",
+    "mvp": false
+  },
+  "2019": {
+    "name": "Ancient Tree",
+    "icon": "https://db.irowiki.org/image/monster/2019.png",
+    "mvp": false
+  },
+  "2020": {
+    "name": "Rhyncho",
+    "icon": "https://db.irowiki.org/image/monster/2020.png",
+    "mvp": false
+  },
+  "2021": {
+    "name": "Phylla",
+    "icon": "https://db.irowiki.org/image/monster/2021.png",
+    "mvp": false
+  },
+  "2022": {
+    "name": "Nidhoggur's Shadow",
+    "icon": "https://db.irowiki.org/image/monster/2022.png",
+    "mvp": true
+  },
+  "2023": {
+    "name": "Dark Shadow",
+    "icon": "https://db.irowiki.org/image/monster/2023.png",
+    "mvp": false
+  },
+  "2024": {
+    "name": "Bradium Golem",
+    "icon": "https://db.irowiki.org/image/monster/2024.png",
+    "mvp": false
+  },
+  "2027": {
+    "name": "Dark Shadow",
+    "icon": "https://db.irowiki.org/image/monster/2027.png",
+    "mvp": false
+  },
+  "2068": {
+    "name": "Boitata",
+    "icon": "https://db.irowiki.org/image/monster/2068.png",
+    "mvp": true
+  },
+  "2069": {
+    "name": "Iara",
+    "icon": "https://db.irowiki.org/image/monster/2069.png",
+    "mvp": false
+  },
+  "2070": {
+    "name": "Piranha",
+    "icon": "https://db.irowiki.org/image/monster/2070.png",
+    "mvp": false
+  },
+  "2071": {
+    "name": "Headless Mule",
+    "icon": "https://db.irowiki.org/image/monster/2071.png",
+    "mvp": false
+  },
+  "2072": {
+    "name": "Jaguar",
+    "icon": "https://db.irowiki.org/image/monster/2072.png",
+    "mvp": false
+  },
+  "2073": {
+    "name": "Toucan",
+    "icon": "https://db.irowiki.org/image/monster/2073.png",
+    "mvp": false
+  },
+  "2074": {
+    "name": "Curupira",
+    "icon": "https://db.irowiki.org/image/monster/2074.png",
+    "mvp": false
+  },
+  "2165": {
+    "name": "Gold Queen Scaraba#ATM3",
+    "icon": "https://db.irowiki.org/image/monster/2165.png"
+  },
+  "2242": {
+    "name": "Ravager",
+    "icon": "https://db.irowiki.org/image/monster/2242.png"
+  },
+  "2313": {
+    "name": "Tikbalang",
+    "icon": "https://db.irowiki.org/image/monster/2313.png"
+  },
+  "2336": {
+    "name": "Domovoi",
+    "icon": "https://db.irowiki.org/image/monster/2336.png"
+  },
+  "2789": {
+    "name": "Skelion",
+    "icon": "https://db.irowiki.org/image/monster/2789.png"
+  },
+  "2893": {
+    "name": "Skoll",
+    "icon": "https://db.irowiki.org/image/monster/2893.png"
+  },
+  "2942": {
+    "name": "Hildisvini",
+    "icon": "https://db.irowiki.org/image/monster/2942.png"
+  },
+  "2959": {
+    "name": "Torturous Redeemer",
+    "icon": "https://db.irowiki.org/image/monster/2959.png"
+  },
+  "2995": {
+    "name": "Abandoned Teddy Bear",
+    "icon": "https://db.irowiki.org/image/monster/2995.png"
+  },
+  "3092": {
+    "name": "Flame Hound",
+    "icon": "https://db.irowiki.org/image/monster/3092.png"
+  },
+  "3484": {
+    "name": "Modgud",
+    "icon": "https://db.irowiki.org/image/monster/3484.png"
+  },
+  "3495": {
+    "name": "Eggring",
+    "icon": "https://db.irowiki.org/image/monster/3495.png"
+  },
+  "3496": {
+    "name": "Leaf Lunatic",
+    "icon": "https://db.irowiki.org/image/monster/3496.png"
+  },
+  "3636": {
+    "name": "Murja",
+    "icon": "https://db.irowiki.org/image/monster/3636.png"
+  },
+  "3669": {
+    "name": "Diabolic",
+    "icon": "https://db.irowiki.org/image/monster/3669.png"
+  },
+  "3670": {
+    "name": "Earth Deleter",
+    "icon": "https://db.irowiki.org/image/monster/3670.png"
+  },
+  "3749": {
+    "name": "Aliaska",
+    "icon": "https://db.irowiki.org/image/monster/3749.png"
+  },
+  "3758": {
+    "name": "Saga",
+    "icon": "https://db.irowiki.org/image/monster/3758.png"
+  },
+  "3790": {
+    "name": "Sweet Drops",
+    "icon": "https://db.irowiki.org/image/monster/3790.png"
+  },
+  "3792": {
+    "name": "Jotnar",
+    "icon": "https://db.irowiki.org/image/monster/3792.png"
+  },
+  "20373": {
+    "name": "Sylvester Stallion",
+    "icon": "https://db.irowiki.org/image/monster/20373.png"
+  },
+  "20420": {
+    "name": "Wanderer Around",
+    "icon": "https://db.irowiki.org/image/monster/20420.png"
+  },
+  "20851": {
+    "name": "My Tree has a BALL",
+    "icon": "https://db.irowiki.org/image/monster/20851.png"
+  },
+  "21295": {
+    "name": "Ash Toad",
+    "icon": "https://db.irowiki.org/image/monster/21295.png"
+  }
+}
